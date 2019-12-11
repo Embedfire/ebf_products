@@ -1,0 +1,16 @@
+
+野火【NRF24L01】模块
+====================
+
+野火【NRF24L01】模块资料链接：
+
+- 链接：https://pan.baidu.com/s/15JsjZKLqYTU-7_MBQERx7g
+- 提取码：h8hi
+
+产品图片
+--------
+
+.. figure:: media/NRF24L01.jpg
+   :alt: NRF24L01
+
+
