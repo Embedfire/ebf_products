@@ -1,0 +1,89 @@
+
+野火【WiFi_AP6181】模块资料
+============================
+
+野火的STM32挑战者、Pro及RT1052 Pro系列开发板都板载了AP6181 WiFi模块，
+该模块使用SDIO接口进行通讯，传输速率可达2MB/s，
+野火为该模块在STM32、RT1052上配套了使用Lwip进行各种联网操作的应用，
+包括mqtt、服务器、客户端以及网络摄像头的应用例子。
+
+
+适配的开发板
+--------------------
+以下是各开发板配套的模块下载地址，github仓库和gitee仓库的内容是一样的，在国内gitee下载会快一点。
+
+.. list-table:: 适配的开发板
+   :header-rows: 1
+   :stub-columns: 1
+   :align: center
+   :widths: 20 40 40
+
+   * - 开发板
+     - github仓库
+     - gitee仓库
+
+   * - 野火STM32F429_挑战者_V1
+     - `仓库地址github <https://github.com/Embdefire/wifi-ap6181-f429-code>`_
+     - `仓库地址gitee <https://gitee.com/wildfireteam/wifi-ap6181-f429-code>`_
+
+   * - 野火STM32F429_挑战者_V2
+     - `仓库地址github <https://github.com/Embdefire/wifi-ap6181-f429v2-code>`_
+     - `仓库地址gitee <https://gitee.com/wildfireteam/wifi-ap6181-f429v2-code>`_
+
+   * - 野火STM32F767_挑战者（V1和V2）
+     - `仓库地址github <https://github.com/Embdefire/wifi-ap6181-f767-code>`_
+     - `仓库地址gitee <https://gitee.com/wildfireteam/wifi-ap6181-f767-code>`_
+
+   * - 野火STM32H743_挑战者_V2
+     - `仓库地址github <https://github.com/Embdefire/wifi-ap6181-h743-code>`_
+     - `仓库地址gitee <https://gitee.com/wildfireteam/wifi-ap6181-h743-code>`_
+
+   * - 野火STM32H743_Pro开发板
+     - `仓库地址github <https://github.com/Embdefire/wifi-ap6181-h743pro-code>`_
+     - `仓库地址gitee <https://gitee.com/wildfireteam/wifi-ap6181-h743pro-code>`_
+
+   * - 野火i.MXRT1052_Pro开发板
+     - `仓库地址github <https://github.com/Embdefire/wifi-ap6181-rt1052-code>`_
+     - `仓库地址gitee <https://gitee.com/wildfireteam/wifi-ap6181-rt1052-code>`_
+
+   * - 野火STM32H750_Pro开发板
+     - `仓库地址github <https://github.com/Embdefire/wifi-ap6181-h750-code>`_
+     - `仓库地址gitee <https://gitee.com/wildfireteam/wifi-ap6181-h750-code>`_
+
+
+配套模块
+-------------------
+AP6181支持与以下模块配合使用。
+
+.. list-table:: 配套模块
+   :header-rows: 1
+   :stub-columns: 1
+   :align: center
+   :widths: 20 80
+
+   * - 模块
+     - 应用
+
+   * - OV2640
+     - 无线视频采集，代码在AP6181的仓库
+
+   * - OV5640
+     - 无线视频采集，代码在AP6181的仓库
+
+
+产品图片
+--------
+
+
+.. figure:: media/ap6181/wifi_ap6181.jpg
+   :alt: wifi_ap6181
+
+.. figure:: media/ap6181/param.jpg
+   :alt: param
+
+.. figure:: media/ap6181/demo.jpg
+   :alt: demo
+
+.. figure:: media/ap6181/camera_demo.jpg
+   :alt: camera_demo
+

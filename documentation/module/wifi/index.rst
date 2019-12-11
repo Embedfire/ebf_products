@@ -10,7 +10,8 @@ WiFi模块
 .. toctree::
    :maxdepth: 1
 
-   esp8266 
+   esp8266
+   ap6181
    rm04
 
 
