@@ -2,15 +2,26 @@
 [野火]《emXGUI实战指南》系列
 ============================
 
-资料下载链接
-------------
 
-github 仓库：
+在线文档
+^^^^^^^^^^^^
 
--  stm32f429综合示例： https://github.com/Embdefire/emXGUI_demo_stm32f429
--  emXGUI入门教程示例：https://github.com/Embdefire/emXGUI_tutorial
+`《emXGUI应用开发实战指南》 <https://emxgui-tutorial-doc.readthedocs.io>`_
 
-本资料包含野火各开发板配套的程序，可根据需要选择下载。
+
+配套示例代码
+^^^^^^^^^^^^^
+
+emXGUI基础入门示例包含适配到STM32和i.MX RT1052的各种控件使用示例。
+
+示例代码Git仓库地址：
+
+- `github-emXGUI_tutorial_code <https://github.com/Embdefire/emXGUI_tutorial.git>`_
+- `gitee-emXGUI_tutorial_code <https://gitee.com/wildfireteam/emXGUI_tutorial.git>`_
+
+百度云下载链接
+^^^^^^^^^^^^^^^^^^^
+百度云下载链接会不定期更新，请尽量在git仓库下载使用。
 
 [野火]《emXGUI实战指南》系列丛书：
 
