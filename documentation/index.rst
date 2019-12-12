@@ -59,14 +59,15 @@
    :caption: 工程组件
    :titlesonly:
 
-   package/index
+   package/emxgui
 
 .. toctree::
    :maxdepth: 2
    :caption: 开发工具
    :titlesonly:
 
-   tool/index
+   tool/dap/dap
+   tool/solder/solder
 
 .. toctree::
    :maxdepth: 2
