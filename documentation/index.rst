@@ -56,10 +56,17 @@
 
 .. toctree::
    :maxdepth: 2
+   :caption: 工程组件
+   :titlesonly:
+
+   package/index
+
+.. toctree::
+   :maxdepth: 2
    :caption: 开发工具
    :titlesonly:
 
-   tool/dap/dap
+   tool/index
 
 .. toctree::
    :maxdepth: 2
