@@ -34,8 +34,8 @@ Git代码仓库
 
 **下载时建议先只下载“0-开发板用前必读”、“1-野火开源图书合集”和“2-硬件资料”部分，其它资料比较大，而且我们会持续更新，推荐用到的时候再下载。**
 
-- 百度云资料链接：  https://pan.baidu.com/s/1g5NiXLwYYEo52iARnCbG3w
-- 提取码：u2ri
+- 百度云资料链接：  https://pan.baidu.com/s/1sUPeMSDt1egJmw6YSk7-DQ
+- 提取码：v4kh
 
 产品图片
 --------
