@@ -47,6 +47,14 @@ emXGUI综合示例
      - github仓库
      - gitee仓库
 
+   * - :doc:`野火emXGUI基础教程(配套野火全系列开发板)`
+     - `github-emXGUI_tutorial <https://github.com/Embdefire/emXGUI_tutorial>`_
+     - `gitee-emXGUI_tutorial <https://gitee.com/wildfireteam/emXGUI_tutorial>`_
+
+   * - :doc:`野火STM32F103_指南者(2.8及3.2寸屏) <../../stm32/ebf_stm32f103_zhinanzhe>`
+     - `github-emXGUI_demo_stm32f103ve_2.8_3.2 <https://github.com/Embdefire/emXGUI_demo_stm32f103ve_2.8_3.2>`_
+     - `gitee-emXGUI_demo_stm32f103ve_2.8_3.2 <https://gitee.com/wildfireteam/emXGUI_demo_stm32f103ve_2.8_3.2>`_
+
    * - :doc:`野火STM32F103_霸道(V1和V2，2.8及3.2寸屏) <../../stm32/ebf_stm32f103_badao_v2>`
      - `github-emXGUI_demo_stm32f103_2.8_3.2 <https://github.com/Embdefire/emXGUI_demo_stm32f103_2.8_3.2>`_
      - `gitee-emXGUI_demo_stm32f103_2.8_3.2 <https://gitee.com/wildfireteam/emXGUI_demo_stm32f103_2.8_3.2>`_
@@ -55,18 +63,41 @@ emXGUI综合示例
      - `github-emXGUI_demo_stm32f103_4.3_4.5 <https://github.com/Embdefire/emXGUI_demo_stm32f103_4.3_4.5>`_
      - `gitee-emXGUI_demo_stm32f103_4.3_4.5 <https://gitee.com/wildfireteam/emXGUI_demo_stm32f103_4.3_4.5>`_
 
-   * - :doc:`野火STM32F407_霸天虎(V1和V2，2.8及3.2寸屏) <../../stm32/ebf_stm32f103_badao_v2>`
+   * - :doc:`野火STM32F407_霸天虎(V1和V2，2.8及3.2寸屏) <../../stm32/ebf_stm32f407_batianhu_v2>`
      - `github-emXGUI_demo_stm32f407_3.2_2.8 <https://github.com/Embdefire/emXGUI_demo_stm32f407_3.2_2.8>`_
      - `gitee-emXGUI_demo_stm32f407_3.2_2.8 <https://gitee.com/wildfireteam/emXGUI_demo_stm32f407_3.2_2.8>`_
 
-   * - :doc:`../../stm32/ebf_stm32f429_tiaozhanzhe_v2`
+   * - :doc:`野火STM32F407_霸天虎(V1和V2，4.3及4.5寸屏) <../../stm32/ebf_stm32f407_batianhu_v2>`
+     - `github-emXGUI_demo_stm32f407_4.3_4.5 <https://github.com/Embdefire/emXGUI_demo_stm32f407_4.3_4.5>`_
+     - `gitee-emXGUI_demo_stm32f407_4.3_4.5 <https://gitee.com/wildfireteam/emXGUI_demo_stm32f407_4.3_4.5>`_
+
+   * - :doc:`野火STM32F429_挑战者(V2，4.3、5及7寸屏) <../../stm32/ebf_stm32f429_tiaozhanzhe_v2>`
      - `github-emXGUI_demo_stm32f429 <https://github.com/Embdefire/emXGUI_demo_stm32f429>`_
      - `gitee-emXGUI_demo_stm32f429 <https://gitee.com/wildfireteam/emXGUI_demo_stm32f429>`_
+
+   * - :doc:`野火STM32F767_挑战者(V2，4.3、5及7寸屏) <../../stm32/ebf_stm32f767_tiaozhanzhe_v2>`
+     - `github-emXGUI_demo_stm32f767_4.3_5_7 <https://github.com/Embdefire/emXGUI_demo_stm32f767_4.3_5_7>`_
+     - `gitee-emXGUI_demo_stm32f767_4.3_5_7 <https://gitee.com/wildfireteam/emXGUI_demo_stm32f767_4.3_5_7>`_
+
+   * - :doc:`野火STM32H743_挑战者(V2，4.3、5及7寸屏) <../../stm32/ebf_stm32h743_tiaozhanzhe_v2>`
+     - `github-emXGUI_demo_stm32h743_tiaozhanzhe <https://github.com/Embdefire/emXGUI_demo_stm32h743_tiaozhanzhe>`_
+     - `gitee-emXGUI_demo_stm32h743_tiaozhanzhe <https://gitee.com/wildfireteam/emXGUI_demo_stm32h743_tiaozhanzhe>`_
 
    * - :doc:`../../stm32/ebf_stm32h743_pro`
      - `github-emXGUI_demo_stm32h743_v <https://github.com/Embdefire/emXGUI_demo_stm32h743_v>`_
      - `gitee-emXGUI_demo_stm32h743_v <https://gitee.com/wildfireteam/emXGUI_demo_stm32h743_v>`_
 
+   * - :doc:`../../stm32/ebf_stm32h750_pro`
+     - `github-emXGUI_demo_stm32h750_v <https://github.com/Embdefire/emXGUI_demo_stm32h750_v>`_
+     - `gitee-emXGUI_demo_stm32h750_v <https://gitee.com/wildfireteam/emXGUI_demo_stm32h750_v>`_
+
+   * - :doc:`VS平台的综合例程`
+     - `github-emXGUI_demo_vs <https://github.com/Embdefire/emXGUI_demo_vs>`_
+     - `gitee-emXGUI_demo_vs <https://gitee.com/wildfireteam/emXGUI_demo_vs>`_
+
+   * - :doc:`VS平台的基础例程`
+     - `github-emXGUI_tutorial_vs <https://github.com/Embdefire/emXGUI_tutorial_vs>`_
+     - `gitee-emXGUI_tutorial_vs <https://gitee.com/wildfireteam/emXGUI_tutorial_vs>`_
 
 产品图片
 --------
