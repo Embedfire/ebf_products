@@ -16,7 +16,7 @@ emXGUI基础入门示例包含适配到STM32和i.MX RT1052的各种控件使用�
 
 示例代码Git仓库地址：
 
-- `github-emXGUI_tutorial_code <https://github.com/Embdefire/emXGUI_tutorial.git>`_
+- `github-emXGUI_tutorial_code <https://github.com/Embedfire/emXGUI_tutorial.git>`_
 - `gitee-emXGUI_tutorial_code <https://gitee.com/wildfireteam/emXGUI_tutorial.git>`_
 
 百度云下载链接

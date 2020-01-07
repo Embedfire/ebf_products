@@ -18,4 +18,4 @@
 
  https://gitee.com/wildfireteam/ebf_emwin_tutorial_code   
 
- https://github.com/Embdefire/ebf_emwin_tutorial_code
+ https://github.com/Embedfire/ebf_emwin_tutorial_code

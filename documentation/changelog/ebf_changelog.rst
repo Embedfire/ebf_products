@@ -129,7 +129,7 @@ MPU6050陀螺仪姿态检测 - OV2640摄像头 - OV5640摄像头例程
 
 重新下载开配套开发板的A盘资料即可同步。
 
-新增的模块例程包括各种传感器、GPS定位、摄像头，具体见\ `模块产品 <https://github.com/Embdefire/products/wiki/Home#模块产品>`__\ ：
+新增的模块例程包括各种传感器、GPS定位、摄像头，具体见\ `模块产品 <https://github.com/Embedfire/products/wiki/Home#模块产品>`__\ ：
 http://t.cn/EKbxhYg\ 。
 
 2019-08-03_发布uCos-III视频教程

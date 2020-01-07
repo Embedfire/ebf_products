@@ -3,7 +3,7 @@
 关于本项目
 ==============
 
-本项目的github地址：https://github.com/Embdefire/ebf_products
+本项目的github地址：https://github.com/Embedfire/ebf_products
 
 本项目的gitee 地址：https://gitee.com/wildfireteam/ebf_products
 

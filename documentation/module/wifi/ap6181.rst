@@ -25,31 +25,31 @@
      - gitee仓库
 
    * - :doc:`../../stm32/ebf_stm32f429_tiaozhanzhe_v1`
-     - `github-wifi-ap6181-f429-code <https://github.com/Embdefire/wifi-ap6181-f429-code>`_
+     - `github-wifi-ap6181-f429-code <https://github.com/Embedfire/wifi-ap6181-f429-code>`_
      - `gitee-wifi-ap6181-f429-code <https://gitee.com/wildfireteam/wifi-ap6181-f429-code>`_
 
    * - :doc:`../../stm32/ebf_stm32f429_tiaozhanzhe_v2`
-     - `github-wifi-ap6181-f429v2-code <https://github.com/Embdefire/wifi-ap6181-f429v2-code>`_
+     - `github-wifi-ap6181-f429v2-code <https://github.com/Embedfire/wifi-ap6181-f429v2-code>`_
      - `gitee-wifi-ap6181-f429v2-code <https://gitee.com/wildfireteam/wifi-ap6181-f429v2-code>`_
 
    * - :doc:`野火STM32F767(V1和V2) <../../stm32/ebf_stm32f767_tiaozhanzhe_v2>`
-     - `github-wifi-ap6181-f767-code <https://github.com/Embdefire/wifi-ap6181-f767-code>`_
+     - `github-wifi-ap6181-f767-code <https://github.com/Embedfire/wifi-ap6181-f767-code>`_
      - `gitee-wifi-ap6181-f767-code <https://gitee.com/wildfireteam/wifi-ap6181-f767-code>`_
 
    * - :doc:`../../stm32/ebf_stm32h743_tiaozhanzhe_v2`
-     - `github-wifi-ap6181-h743-code <https://github.com/Embdefire/wifi-ap6181-h743-code>`_
+     - `github-wifi-ap6181-h743-code <https://github.com/Embedfire/wifi-ap6181-h743-code>`_
      - `gitee-wifi-ap6181-h743-code <https://gitee.com/wildfireteam/wifi-ap6181-h743-code>`_
 
    * - :doc:`../../stm32/ebf_stm32h743_pro`
-     - `github-wifi-ap6181-h743pro-code <https://github.com/Embdefire/wifi-ap6181-h743pro-code>`_
+     - `github-wifi-ap6181-h743pro-code <https://github.com/Embedfire/wifi-ap6181-h743pro-code>`_
      - `gitee-wifi-ap6181-h743pro-code <https://gitee.com/wildfireteam/wifi-ap6181-h743pro-code>`_
 
    * - :doc:`../../stm32/ebf_stm32h750_pro`
-     - `github-wifi-ap6181-h750-code <https://github.com/Embdefire/wifi-ap6181-h750-code>`_
+     - `github-wifi-ap6181-h750-code <https://github.com/Embedfire/wifi-ap6181-h750-code>`_
      - `gitee-wifi-ap6181-h750-code <https://gitee.com/wildfireteam/wifi-ap6181-h750-code>`_
 
    * - :doc:`../../i.mx-rt/ebf_i.mx-rt1052`
-     - `github-wifi-ap6181-rt1052-code <https://github.com/Embdefire/wifi-ap6181-rt1052-code>`_
+     - `github-wifi-ap6181-rt1052-code <https://github.com/Embedfire/wifi-ap6181-rt1052-code>`_
      - `gitee-wifi-ap6181-rt1052-code <https://gitee.com/wildfireteam/wifi-ap6181-rt1052-code>`_
 
 
