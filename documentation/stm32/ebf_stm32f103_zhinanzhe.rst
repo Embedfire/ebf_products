@@ -8,8 +8,8 @@
 
 野火STM32F103指南者开发板资料链接：
 
--  资料盘 链接： https://pan.baidu.com/s/1nRFrwIdIIjbkbD34XG4Bag
--  提取码：j23g
+-  资料盘 链接： https://pan.baidu.com/s/1KGo9zfi8l3ZMiVDsD6WSzg
+-  提取码：9zxp
 
 **若上述链接失效，请直接下载以下打包压缩的版本，内容是一样的：**
 
