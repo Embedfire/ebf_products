@@ -14,8 +14,16 @@
 -  提取码：enw0
 
 
+
 下面为各配套各开发的章节例程
 
  https://gitee.com/wildfireteam/ebf_emwin_tutorial_code   
 
  https://github.com/Embedfire/ebf_emwin_tutorial_code
+
+
+视频下载链接：
+
+ https://pan.baidu.com/s/1GJR_kuzetRuEFyOAa3LLvA 
+
+ 提取码：2nj5
