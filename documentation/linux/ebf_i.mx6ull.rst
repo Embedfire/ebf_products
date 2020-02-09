@@ -12,11 +12,18 @@
 Git代码仓库
 ----------------------
 
-网盘的代码更新管理不方便，我们建议大家到github中下载源码，页面中包含了基本的编译说明：
+网盘的代码更新管理不方便，我们建议大家到github或国内gitee中下载源码，页面中包含了基本的编译说明：
 
--  野火QtApp桌面源码github链接： https://github.com/Embedfire/ebf_linux_qt_demo
--  野火uboot源码github链接： https://github.com/Embedfire/ebf_6ull_uboot
--  野火Linux内核源码github链接： https://github.com/Embedfire/ebf_6ull_linux
+-  野火QtApp桌面源码  github链接 ：https://github.com/Embedfire/ebf_linux_qt_demo
+                     gitee链接  ：https://gitee.com/wildfireteam/ebf_linux_qt_demo
+
+-  野火uboot源码      github链接 ：https://github.com/Embedfire/ebf_6ull_uboot
+                     gitee链接  ：https://gitee.com/wildfireteam/ebf_6ull_uboot
+
+-  野火Linux内核源码  github链接 ：https://github.com/Embedfire/ebf_6ull_linux
+                     gitee链接  : https://gitee.com/wildfireteam/ebf_6ull_linux
+
+
 
 资料下载链接（网盘）
 --------------------
