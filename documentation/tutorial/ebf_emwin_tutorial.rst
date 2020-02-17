@@ -24,6 +24,5 @@
 
 视频下载链接：
 
- https://pan.baidu.com/s/1GJR_kuzetRuEFyOAa3LLvA 
-
- 提取码：2nj5
+ 链接：https://pan.baidu.com/s/1amzQr5rMmPrOsqdJTKfLEQ 
+ 提取码：nrsk 
