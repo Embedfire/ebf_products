@@ -23,6 +23,12 @@ Git代码仓库
 -  野火Linux内核源码  github链接 ：https://github.com/Embedfire/ebf_6ull_linux
                      gitee链接  : https://gitee.com/wildfireteam/ebf_6ull_linux
 
+-  野火《i.MX Linux开发实战指南》章节代码
+                     github链接 ：https://github.com/Embedfire/embed_linux_tutorial
+                     gitee链接  : https://gitee.com/wildfireteam/embed_linux_tutorial
+
+
+
 
 
 资料下载链接（网盘）
