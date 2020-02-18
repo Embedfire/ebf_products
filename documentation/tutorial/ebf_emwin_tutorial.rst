@@ -17,7 +17,7 @@
 
 下面为各配套各开发的章节例程
 
- https://gitee.com/wildfireteam/ebf_emwin_tutorial_code   
+ https://gitee.com/Embedfire-emwin/ebf_emwin_tutorial_code  
 
  https://github.com/Embedfire/ebf_emwin_tutorial_code
 
