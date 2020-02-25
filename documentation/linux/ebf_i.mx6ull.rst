@@ -9,6 +9,16 @@
 
 -  《 [野火]EBF6ULL 硬件资料 》: https://ebf-6ull-hardware.readthedocs.io
 
+Debian镜像
+-----------
+此处发布的Debian镜像适用于野火imx6开发板，使用debian镜像非常方便于应用apt工具安装各种各样的软件，如gcc、python、java等环境，完全可以把它当成普通debian来使用。
+
+Debian镜像链接：
+链接：https://pan.baidu.com/s/1pji1U1vvgP8sl_TTZp59qg 
+提取码：b5wb 
+
+
+
 Git代码仓库
 ----------------------
 
