@@ -12,48 +12,36 @@
 
 适配的开发板
 --------------------
-以下是各开发板配套的模块下载地址，github仓库和gitee仓库的内容是一样的，在国内gitee下载会快一点。
+野火STM32F429挑战者_V1/V2开发板
 
-.. list-table:: 适配的开发板
-   :header-rows: 1
-   :stub-columns: 1
-   :align: center
-   :widths: 20 40 40
+野火STM32F767(V1和V2通用)开发板
 
-   * - 开发板
-     - github仓库
-     - gitee仓库
+野火STM32H743挑战者_V2开发板
 
-   * - :doc:`../../stm32/ebf_stm32f429_tiaozhanzhe_v1`
-     - `github-wifi-ap6181-f429-code <https://github.com/Embedfire/wifi-ap6181-f429-code>`_
-     - `gitee-wifi-ap6181-f429-code <https://gitee.com/wildfireteam/wifi-ap6181-f429-code>`_
+野火STM32H743_Pro开发板
 
-   * - :doc:`../../stm32/ebf_stm32f429_tiaozhanzhe_v2`
-     - `github-wifi-ap6181-f429v2-code <https://github.com/Embedfire/wifi-ap6181-f429v2-code>`_
-     - `gitee-wifi-ap6181-f429v2-code <https://gitee.com/wildfireteam/wifi-ap6181-f429v2-code>`_
+野火STM32H750_Pro开发板
 
-   * - :doc:`野火STM32F767(V1和V2) <../../stm32/ebf_stm32f767_tiaozhanzhe_v2>`
-     - `github-wifi-ap6181-f767-code <https://github.com/Embedfire/wifi-ap6181-f767-code>`_
-     - `gitee-wifi-ap6181-f767-code <https://gitee.com/wildfireteam/wifi-ap6181-f767-code>`_
-
-   * - :doc:`../../stm32/ebf_stm32h743_tiaozhanzhe_v2`
-     - `github-wifi-ap6181-h743-code <https://github.com/Embedfire/wifi-ap6181-h743-code>`_
-     - `gitee-wifi-ap6181-h743-code <https://gitee.com/wildfireteam/wifi-ap6181-h743-code>`_
-
-   * - :doc:`../../stm32/ebf_stm32h743_pro`
-     - `github-wifi-ap6181-h743pro-code <https://github.com/Embedfire/wifi-ap6181-h743pro-code>`_
-     - `gitee-wifi-ap6181-h743pro-code <https://gitee.com/wildfireteam/wifi-ap6181-h743pro-code>`_
-
-   * - :doc:`../../stm32/ebf_stm32h750_pro`
-     - `github-wifi-ap6181-h750-code <https://github.com/Embedfire/wifi-ap6181-h750-code>`_
-     - `gitee-wifi-ap6181-h750-code <https://gitee.com/wildfireteam/wifi-ap6181-h750-code>`_
-
-   * - :doc:`../../i.mx-rt/ebf_i.mx-rt1052`
-     - `github-wifi-ap6181-rt1052-code <https://github.com/Embedfire/wifi-ap6181-rt1052-code>`_
-     - `gitee-wifi-ap6181-rt1052-code <https://gitee.com/wildfireteam/wifi-ap6181-rt1052-code>`_
+野火i.MX RT1052开发板
 
 
-配套模块
+
+适配的例程
+--------------------
+以下是各开发板配套的例程下载地址，github仓库和gitee仓库的内容是一样的，在国内gitee下载会快一点。
+
+请在里面寻找对应需要的板子型号仓库
+
+github仓库:https://github.com/Embedfire-WiFi-AP
+
+gitee仓库:https://gitee.com/Embedfrie-WiFi-AP
+
+
+
+
+   
+
+配套摄像头模块
 -------------------
 AP6181支持与以下模块配合使用。
 
