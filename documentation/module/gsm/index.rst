@@ -12,6 +12,7 @@ GSM通讯
    :maxdepth: 1
 
    gsm800a
+   ec20
 
 
 
