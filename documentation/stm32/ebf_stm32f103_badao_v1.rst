@@ -16,10 +16,6 @@
 #. 网易云课堂：https://study.163.com/provider/400000000596001/course.htm
 
 
-百度云：
-
--  视频盘 链接： https://pan.baidu.com/s/1oJcXIgTrUGq691RITiLleQ
--  提取码：7kjz
 
 产品图片
 --------
