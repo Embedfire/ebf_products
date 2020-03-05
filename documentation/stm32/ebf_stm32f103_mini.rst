@@ -13,6 +13,13 @@
 -  视频盘 链接： https://pan.baidu.com/s/1yJwpoPjZwf66-P3oyLMWMQ
 -  提取码：agyw
 
+视频网盘经常失效，请移步在线观看平台：
+
+1. 哔哩哔哩：https://space.bilibili.com/356820657/video
+#. 优酷频道：https://i.youku.com/i/UMzQzOTAxODg2MA==/playlists?spm=a2hzp.8244740.0.0
+#. 网易云课堂：https://study.163.com/provider/400000000596001/course.htm
+
+
 产品图片
 --------
 
