@@ -15,17 +15,28 @@
 #. 优酷频道：https://i.youku.com/i/UMzQzOTAxODg2MA==/playlists?spm=a2hzp.8244740.0.0
 #. 网易云课堂：https://study.163.com/provider/400000000596001/course.htm
 
-视频盘 链接：
-    配套课件 链接： https://pan.baidu.com/s/12JAfbeVv_n5BnAeozhOBag
-    提取码：n0hk
-    入门篇 链接： 链接：https://pan.baidu.com/s/1icAhGMezD3aRgKOZs0oCeQ
-    提取码：537y
-    中级篇 链接： https://pan.baidu.com/s/1f4CzG3z7jzLNc8B0bIUV6w
-    提取码：ohgr
-    提高篇 链接： https://pan.baidu.com/s/111AuGXE884rqg3qzX3bQBQ
-    提取码：4hpk
-    大师篇 链接： https://pan.baidu.com/s/1yXiMANEhPSrSyPvpZkXfXA
-    提取码：zhzv
+-  视频盘 链接：
+
+   -  ``配套课件``
+      链接： https://pan.baidu.com/s/12JAfbeVv_n5BnAeozhOBag
+
+   -  提取码：n0hk
+
+   -  ``入门篇`` 链接： 链接：https://pan.baidu.com/s/1icAhGMezD3aRgKOZs0oCeQ
+
+   -  提取码：537y
+
+   -  ``中级篇`` 链接： https://pan.baidu.com/s/1f4CzG3z7jzLNc8B0bIUV6w
+
+   -  提取码：ohgr
+
+   -  ``提高篇`` 链接： https://pan.baidu.com/s/111AuGXE884rqg3qzX3bQBQ
+
+   -  提取码：4hpk
+
+   -  ``大师篇`` 链接： https://pan.baidu.com/s/1yXiMANEhPSrSyPvpZkXfXA
+
+   -  提取码：zhzv
 
 
 产品图片
