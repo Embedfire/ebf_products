@@ -1,0 +1,17 @@
+
+野火【EC20】模块资料
+===========================
+
+资料下载链接
+------------
+
+野火【EC20】模块说明链接：
+
+https://tutorial.linux.doc.embedfire.com/zh_CN/latest/linux_basis/ec20_4g_module.html
+
+产品图片
+--------
+
+.. figure:: media/GSM_EC20.png
+   :alt: GSM_EC20
+
