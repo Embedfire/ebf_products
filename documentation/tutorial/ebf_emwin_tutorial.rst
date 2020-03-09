@@ -10,8 +10,8 @@
 
 [野火]《emWin实战指南》系列丛书：
 
--  链接：https://pan.baidu.com/s/1easlkXYOeM2H0-Rd0AcWBw
--  提取码：enw0
+-  链接：https://pan.baidu.com/s/1LqxFdhtfIGm_vT6RQKlvcw
+-  提取码：ac2n
 
 在线文档：
 
@@ -25,7 +25,12 @@ https://ebf-emwin-tutorial.readthedocs.io
  https://github.com/Embedfire/ebf_emwin_tutorial_code
 
 
-视频下载链接：
-
+ 视频在线观看：
+ https://www.bilibili.com/video/av94409908
+ 
+ 
+ 视频下载链接：
  链接：https://pan.baidu.com/s/1amzQr5rMmPrOsqdJTKfLEQ 
  提取码：nrsk 
+ 
+ 
