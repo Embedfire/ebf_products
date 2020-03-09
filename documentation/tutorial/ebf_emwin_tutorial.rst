@@ -31,7 +31,7 @@ https://www.bilibili.com/video/av94409908
  
  
 视频下载链接：
-链接：https://pan.baidu.com/s/1amzQr5rMmPrOsqdJTKfLEQ 
+https://pan.baidu.com/s/1amzQr5rMmPrOsqdJTKfLEQ 
 提取码：nrsk 
  
  
