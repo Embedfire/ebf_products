@@ -13,6 +13,9 @@
 -  链接：https://pan.baidu.com/s/1easlkXYOeM2H0-Rd0AcWBw
 -  提取码：enw0
 
+在线文档：
+
+https://ebf-emwin-tutorial.readthedocs.io
 
 
 下面为各配套各开发的章节例程
