@@ -28,7 +28,7 @@
 
    -  ``中级篇`` 链接：https://pan.baidu.com/s/1zdVZQEtoEZ_I6FTfjEjTmA 
    
-   -提取码：zwpr
+   - 提取码：zwpr
 
    -  ``提高篇`` 链接： https://pan.baidu.com/s/111AuGXE884rqg3qzX3bQBQ
 
