@@ -28,8 +28,19 @@
 
 适配的例程
 --------------------
-以下是各开发板配套的例程下载地址，github仓库和gitee仓库的内容是一样的，在国内gitee下载会快一点。
 
+百度云盘链接：
+
+链接：https://pan.baidu.com/s/1Q8C265PaWxWrooJcfFRkzA 
+提取码：z964 
+
+
+
+
+
+
+git仓库链接：
+github仓库和gitee仓库的内容是一样的，在国内gitee下载会快一点。
 请在里面寻找对应需要的板子型号仓库
 
 github仓库:https://github.com/Embedfire-WiFi-AP
@@ -39,7 +50,7 @@ gitee仓库:https://gitee.com/Embedfrie-WiFi-AP
 
 
 
-   
+  
 
 配套摄像头模块
 -------------------
