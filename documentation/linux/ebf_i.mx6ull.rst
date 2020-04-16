@@ -31,7 +31,7 @@
 *该云盘里面的固件和源码为目前开发板出厂默认烧录的系统。Debian系统相关源码请看下面仓库链接。*
 
 
-Debian镜像 (教程默认用系统)
+Debian镜像 (教程中使用系统)
 -----------
 此处发布的Debian镜像适用于野火imx6开发板，使用debian镜像非常方便于应用apt工具安装各种各样的软件，如gcc、python、java等环境，完全可以把它当成普通debian来使用。
 
@@ -47,9 +47,8 @@ Git代码仓库
 ----------------------
 网盘的代码更新管理不方便，我们建议大家到github或国内gitee中下载源码，教程对应章节或者项目readme部分有相关说明：
 
-github链接 ：https://github.com/Embedfire
+github链接 ：https://github.com/Embedfire  -  gitee链接  : https://gitee.com/organizations/wildfireteam/projects
 
-gitee链接  : https://gitee.com/organizations/wildfireteam/projects
 
 
 **野火《i.MX Linux开发实战指南》章节代码**
@@ -57,12 +56,11 @@ gitee链接  : https://gitee.com/organizations/wildfireteam/projects
 github链接 ：https://github.com/Embedfire/embed_linux_tutorial  -  gitee链接  : https://gitee.com/wildfireteam/embed_linux_tutorial
 
 
-**Debian系统**
 
+**Debian系统**
 
 github链接 ：https://gitee.com/wildfireteam/ebf-image-builder  -  gitee链接  : https://github.com/Embedfire/ebf-image-builder
    
-
 -  野火QtApp桌面源码 
 
 github链接 ：https://github.com/Embedfire/ebf_debian_qt_demo   -  gitee链接  ：https://gitee.com/wildfireteam/ebf_debian_qt_demo
@@ -75,6 +73,7 @@ github链接 ：https://github.com/Embedfire/ebf-buster-uboot     -   gitee链�
 
 github链接 ：https://github.com/Embedfire/ebf-buster-linux     -   gitee链接  : https://gitee.com/wildfireteam/ebf-buster-linux
    
+
 
 
 **出厂系统**
