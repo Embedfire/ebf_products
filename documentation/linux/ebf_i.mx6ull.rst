@@ -37,7 +37,7 @@ Debian镜像链接：
 - 综合资料百度云资料链接：
   https://pan.baidu.com/s/1sUPeMSDt1egJmw6YSk7-DQ
   提取码：v4kh
-该云盘里面的固件和源码为目前开发板出厂默认烧录的镜像。Debian系统相关源码请看下面仓库链接。
+该云盘里面的固件和源码为目前开发板出厂默认烧录的系统。Debian系统相关源码请看下面仓库链接。
 
 
 Git代码仓库
@@ -51,57 +51,42 @@ gitee链接  : https://gitee.com/organizations/wildfireteam/projects
 
 -  野火《i.MX Linux开发实战指南》章节代码
 
-github链接 ：https://github.com/Embedfire/embed_linux_tutorial
-
-gitee链接  : https://gitee.com/wildfireteam/embed_linux_tutorial
+github链接 ：https://github.com/Embedfire/embed_linux_tutorial  -  gitee链接  : https://gitee.com/wildfireteam/embed_linux_tutorial
 
 
-Debian系统：
+**Debian系统**
 
-github链接 ：https://gitee.com/wildfireteam/ebf-image-builder
 
-gitee链接  : https://github.com/Embedfire/ebf-image-builder
+github链接 ：https://gitee.com/wildfireteam/ebf-image-builder  -  gitee链接  : https://github.com/Embedfire/ebf-image-builder
    
 
 -  野火QtApp桌面源码 
 
-github链接 ：https://github.com/Embedfire/ebf_debian_qt_demo
-
-gitee链接  ：https://gitee.com/wildfireteam/ebf_debian_qt_demo
+github链接 ：https://github.com/Embedfire/ebf_debian_qt_demo   -  gitee链接  ：https://gitee.com/wildfireteam/ebf_debian_qt_demo
 
 -  野火uboot源码      
 
-github链接 ：https://github.com/Embedfire/ebf-buster-uboot
-
-gitee链接  ：https://gitee.com/wildfireteam/ebf-buster-linux
+github链接 ：https://github.com/Embedfire/ebf-buster-uboot     -   gitee链接  ：https://gitee.com/wildfireteam/ebf-buster-linux
 
 -  野火Linux内核源码
 
-github链接 ：https://github.com/Embedfire/ebf-buster-linux
-
-gitee链接  : https://gitee.com/wildfireteam/ebf-buster-linux
+github链接 ：https://github.com/Embedfire/ebf-buster-linux     -   gitee链接  : https://gitee.com/wildfireteam/ebf-buster-linux
    
 
 
-出厂镜像：
+**出厂系统**
 
 -  野火QtApp桌面源码
 
-github链接 ：https://github.com/Embedfire/ebf_linux_qt_demo
-
-gitee链接  ：https://gitee.com/wildfireteam/ebf_linux_qt_demo
+github链接 ：https://github.com/Embedfire/ebf_linux_qt_demo     -  gitee链接  ：https://gitee.com/wildfireteam/ebf_linux_qt_demo
 
 -  野火uboot源码 
 
-github链接 ：https://github.com/Embedfire/ebf_6ull_uboot
-
-gitee链接  ：https://gitee.com/wildfireteam/ebf_6ull_uboot
+github链接 ：https://github.com/Embedfire/ebf_6ull_uboot        -  gitee链接  ：https://gitee.com/wildfireteam/ebf_6ull_uboot
 
 -  野火Linux内核源码  
 
-github链接 ：https://github.com/Embedfire/ebf_6ull_linux
-
-gitee链接  : https://gitee.com/wildfireteam/ebf_6ull_linux
+github链接 ：https://github.com/Embedfire/ebf_6ull_linux        -   gitee链接  : https://gitee.com/wildfireteam/ebf_6ull_linux
 
 
 
