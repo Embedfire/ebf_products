@@ -7,8 +7,9 @@
 
 野火【北斗GPS_ATGM332D】模块资料：
 
-- 链接：https://pan.baidu.com/s/1lxjPcLssLI1mCapRopYNLw
-- 提取码：xj35
+- 链接：https://pan.baidu.com/s/1RjQXNDqueALKC4Xx_QALMQ 
+
+- 提取码：olex 
 
 产品图片
 --------
