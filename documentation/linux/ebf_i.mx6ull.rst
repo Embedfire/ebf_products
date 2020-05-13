@@ -67,7 +67,7 @@ github链接 ：https://github.com/Embedfire/ebf_debian_qt_demo   -  gitee链接
 
 -  野火uboot源码      
 
-github链接 ：https://github.com/Embedfire/ebf-buster-uboot     -   gitee链接  ：https://gitee.com/wildfireteam/ebf-buster-linux
+github链接 ：https://github.com/Embedfire/ebf-buster-uboot     -   gitee链接  ：https://gitee.com/wildfireteam/ebf-buster-uboot
 
 -  野火Linux内核源码
 
