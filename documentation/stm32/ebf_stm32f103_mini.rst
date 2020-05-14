@@ -6,8 +6,8 @@
 
 野火STM32F103_MINI开发板资料链接：
 
-- 资料盘 链接： https://pan.baidu.com/s/1ANDF3Gk2Qk-vZ89o7VRJgQ
-- 提取码：lwld
+- 资料盘 链接： https://pan.baidu.com/s/13M-GybLAUh5WqF1SsfLNvg
+- 提取码：dkp9
 
 
 -  视频盘 链接： https://pan.baidu.com/s/1yJwpoPjZwf66-P3oyLMWMQ
