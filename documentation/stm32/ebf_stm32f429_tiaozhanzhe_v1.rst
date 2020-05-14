@@ -7,8 +7,8 @@
 
 野火STM32F429挑战者_V1开发板资料链接：
 
-- 资料盘链接： https://pan.baidu.com/s/1x7VkGEJIp8RQ3kshzD-smw
-- 提取码：bjd8
+- 资料盘链接： https://pan.baidu.com/s/1Aw-3H379iW3eu-XF38hWcw
+- 提取码：td4n
 
 
 -  视频盘 链接： https://pan.baidu.com/s/1MgjvUyFR1e9UPbRlw9coLw
