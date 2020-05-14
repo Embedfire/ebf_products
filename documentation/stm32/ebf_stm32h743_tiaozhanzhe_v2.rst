@@ -7,8 +7,8 @@
 
 野火STM32H743挑战者_V2开发板资料链接：
 
-- 资料盘链接：https://pan.baidu.com/s/1LtE1Jdh7H0pwIChyyqp-Fw
-- 提取码：33z3
+- 资料盘链接：https://pan.baidu.com/s/1ozgvRS0xelA0ThaGai4Zlg
+- 提取码：jk5w
 
 
 产品图片
