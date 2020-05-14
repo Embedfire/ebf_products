@@ -25,8 +25,8 @@ emXGUI基础入门示例包含适配到STM32和i.MX RT1052的各种控件使用�
 
 [野火]《emXGUI实战指南》系列丛书：
 
-- 链接：https://pan.baidu.com/s/1YeBNP_x5WCPmOwDjUGH_pg
-- 提取码：u1k9 
+- 链接：https://pan.baidu.com/s/1i1qtFSMe1sowJSi5zMI3XQ
+- 提取码：ey6b
 
 emXGUI综合程序简介：http://t.cn/EKOyNBa
 
