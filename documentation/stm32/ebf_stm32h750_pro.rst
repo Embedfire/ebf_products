@@ -7,8 +7,8 @@
 
 野火STM32H750 Pro开发板资料链接：
 
-- 链接： https://pan.baidu.com/s/1TaeVY-qaobXd7VfF-pUkLg
-- 提取码：7myt
+- 链接： https://pan.baidu.com/s/1I5J3FNRMkMjbkWKs24kI1A
+- 提取码：28qu
 
 产品图片
 --------
