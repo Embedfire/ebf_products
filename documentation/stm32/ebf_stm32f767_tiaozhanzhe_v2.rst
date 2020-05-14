@@ -7,8 +7,8 @@
 
 野火STM32F767挑战者_V2开发板资料链接：
 
-- 链接： https://pan.baidu.com/s/10-ovSnwjFopFT4XxjVEYBA
-- 提取码：bmmn
+- 链接：https://pan.baidu.com/s/1_CbRxHsQNFZMZwn3WiAAOg
+- 提取码：qz46
 
 产品图片
 --------
