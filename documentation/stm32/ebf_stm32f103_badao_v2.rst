@@ -6,9 +6,9 @@
 
 野火STM32F103霸道_V2开发板资料链接：
 
--  资料盘 链接： https://pan.baidu.com/s/1e54aJN7iAq8478px0J8Mug 
+-  资料盘 链接： https://pan.baidu.com/s/1iC-JGmkcmg0QzJfrYwjn9A
 
--  提取码：r29i
+-  提取码：btxi
 
 视频网盘经常失效，请移步在线观看平台：
 
