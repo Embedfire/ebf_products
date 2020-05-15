@@ -7,8 +7,8 @@
 
 野火STM32F103ZET6核心板资料链接：
 
--  资料盘 链接： https://pan.baidu.com/s/15QPKjiUviFQlsP5vMVMntw
--  提取码：uoi6
+-  资料盘 链接： https://pan.baidu.com/s/1NFXLXuahu4HcuqbN61cR-w
+-  提取码：50wn
 
 重要说明
 --------
