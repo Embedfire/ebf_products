@@ -12,13 +12,9 @@
 #. 【i.MX RT1052 Mini底板】
 #. 【i.MX RT1052 Pro底板】
 
--  链接： https://pan.baidu.com/s/1UscgNZ_Srj0BosjihvZSxA
--  提取码：to3d
+-  链接： https://pan.baidu.com/s/1LVnQPUQ2RcSs6QkWrwM3KA
+-  提取码：9ujd
 
-若以上链接失效，请使用以下链接：
-
-- 链接： https://pan.baidu.com/s/1CLMKL8JQ_gnYj1xRwlzx6A
-- 提取码：xhwt
 
 产品图片
 --------
