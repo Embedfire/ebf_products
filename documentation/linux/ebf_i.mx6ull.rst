@@ -36,8 +36,9 @@ Debian镜像 (教程中使用系统)
 此处发布的Debian镜像适用于野火imx6开发板，使用debian镜像非常方便于应用apt工具安装各种各样的软件，如gcc、python、java等环境，完全可以把它当成普通debian来使用。
 
 - Debian镜像链接：
-链接：https://pan.baidu.com/s/1pji1U1vvgP8sl_TTZp59qg 
-提取码：b5wb 
+链接：https://pan.baidu.com/s/1ANFMMFA9fZQltIQtQafhvw
+提取码：r9ot 
+
 
 
 
