@@ -11,8 +11,8 @@
 
 [野火]《uCOS-III内核实现与应用开发实战指南》系列：
 
-- 链接：https://pan.baidu.com/s/1T7TRRLvEYZH2-V3ef-UVDg
-- 提取码：bbty
+- 链接：https://pan.baidu.com/s/1oqzCXojDOs_5dRUk8wznmg
+- 提取码：i0sa
 
 配套视频
 -------------
@@ -25,8 +25,8 @@
 
 - 百度云链接：
 
-    * 链接：https://pan.baidu.com/s/1M1tHeFCNNPqMUlK6uW8liA
-    * 提取码：f607
+    * 链接：https://pan.baidu.com/s/1cY53BeJUplqKjhPnC_dsNQ
+    * 提取码：fc57
 
 产品图片
 --------
