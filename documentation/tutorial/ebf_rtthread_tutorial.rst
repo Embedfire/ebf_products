@@ -11,8 +11,8 @@
 
 [野火]《RT-Thread内核实现与应用开发实战指南》系列：
 
-- 链接：https://pan.baidu.com/s/1sgoeeDnlWh2tYde8EVhHPw
-- 提取码：6c8p
+- 链接：https://pan.baidu.com/s/1p8YKubYyGXkLjT4_8TLr_Q
+- 提取码：au7p
 
 产品图片
 --------
