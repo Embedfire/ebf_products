@@ -7,8 +7,14 @@
 
 野火【RGB接口电容触摸屏GT9157_5寸】模块资料：
 
-- 链接：https://pan.baidu.com/s/1g4C9bkzrL56WVRqvNyM9mw
-- 提取码：e16d
+- 链接：https://pan.baidu.com/s/1b129Kg658HnJ6eonL5TFDQ
+- 提取码：9mbw
+
+
+
+
+
+注：5寸屏幕和触摸芯片为GT9157的是旧屏幕 现在在售的是变为GT917S 
 
 产品图片
 --------
