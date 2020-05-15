@@ -7,13 +7,9 @@
 
 野火i.MX RT1021开发板配套资料：
 
--  链接： https://pan.baidu.com/s/1rLoAzbNJB0yl3EfCpL6ZLg
--  提取码：7bvj
+-  链接： https://pan.baidu.com/s/1xTtfU8XXvMphol6R-akygw
+-  提取码：0ofv
 
-若上述链接失效，请直接下载以下打包压缩的版本，内容是一样的：
-
-- 打包的资料盘 链接： https://pan.baidu.com/s/1QsIHpGJlj2ueBcapNF15Tw
-- 提取码：ax5h
 
 产品图片
 --------
