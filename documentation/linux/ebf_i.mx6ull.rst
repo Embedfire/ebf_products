@@ -26,8 +26,8 @@
 **下载时建议先只下载“0-开发板用前必读”、“1-野火开源图书合集”和“2-硬件资料”部分，其它资料比较大，而且我们会持续更新，推荐用到的时候再下载。**
 
 - 综合资料百度云资料链接：
-  https://pan.baidu.com/s/1sUPeMSDt1egJmw6YSk7-DQ
-  提取码：v4kh
+  https://pan.baidu.com/s/1iFsSAmkKCfo59Sr1hRCC2w
+  提取码：rkf2
 *该云盘里面的固件和源码为目前开发板出厂默认烧录的系统。Debian系统相关源码请看下面仓库链接。*
 
 
