@@ -9,8 +9,8 @@
 
 [野火]《STM32 HAL库开发实战指南》系列：
 
-- 链接：https://pan.baidu.com/s/1_lFTPBa3qfE7EsofMMaHtQ
-- 提取码：c32b
+- 链接：https://pan.baidu.com/s/1KdiLGh_LKg14aCps9-MXbg
+- 提取码：hm86
 
 产品图片
 --------
