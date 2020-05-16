@@ -9,8 +9,8 @@
 
 [野火]《STM32 HAL库开发实战指南》系列：
 
-- 链接：https://pan.baidu.com/s/1KdiLGh_LKg14aCps9-MXbg
-- 提取码：hm86
+- 链接：https://pan.baidu.com/s/10kJ4IUOlOlBPp-F2xHDadw
+- 提取码：nfj7
 
 产品图片
 --------
