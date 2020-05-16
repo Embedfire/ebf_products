@@ -9,8 +9,8 @@
 
 [野火]《STM32库开发实战指南》系列：
 
-- 链接：https://pan.baidu.com/s/1Q0IwmPmnW0mcsrzoli9_yw
-- 提取码：arwe
+- 链接：https://pan.baidu.com/s/1KdiLGh_LKg14aCps9-MXbg 
+- 提取码：hm86 
 
 配套视频
 ----------------
