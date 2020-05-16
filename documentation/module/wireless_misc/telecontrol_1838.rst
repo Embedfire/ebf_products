@@ -7,8 +7,8 @@
 
 野火【红外遥控_1838】模块资料：
 
-- 链接：https://pan.baidu.com/s/1FoTq8rVRVIOdBTAb2fnDkQ
-- 提取码：bo8p
+- 链接：https://pan.baidu.com/s/1xMCYqTfEJw-ZChONANlnLg
+- 提取码：ae7i
 
 产品图片
 --------
