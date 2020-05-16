@@ -7,9 +7,8 @@
 
 野火【继电器_四路】模块资料：
 
-- 链接：https://pan.baidu.com/s/19xC4BJDvE7gtl8QyDS8jwA
-- 提取码：4d4h
-
+- 链接：https://pan.baidu.com/s/1kUu54SRkgPZSu0dPrY2now
+- 提取码：r2ga
 产品图片
 --------
 
