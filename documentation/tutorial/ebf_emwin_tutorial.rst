@@ -27,11 +27,11 @@ https://ebf-emwin-tutorial.readthedocs.io
 
 
 视频在线观看：
-https://www.bilibili.com/video/av94409908
+https://www.bilibili.com/video/av94409908  （待补，先从云盘下载）
  
  
 视频下载链接：
-https://pan.baidu.com/s/1amzQr5rMmPrOsqdJTKfLEQ 
-提取码：nrsk 
+https://pan.baidu.com/s/1VrGzC74DtYigivDiQ-133A
+提取码：k1wz
  
  
