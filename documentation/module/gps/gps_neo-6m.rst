@@ -7,8 +7,8 @@
 
 野火【定位_GPS_NEO-6M】模块资料：
 
-- 链接：https://pan.baidu.com/s/14ZdRrGiXRaXxzNOQIODKzQ
-- 提取码：ul8o
+- 链接：https://pan.baidu.com/s/1WTS7Vp-rQBYOdEStaYbKrA
+- 提取码：uf3r
 
 产品图片
 --------
