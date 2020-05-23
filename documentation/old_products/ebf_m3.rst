@@ -11,7 +11,8 @@
 
 野火M3开发板资料下载链接：
 
-- 百度网盘下载链接：http://pan.baidu.com/s/1i4EiTAP
+- 百度网盘下载链接：https://pan.baidu.com/s/1hM3rpBGQwTAlUcNVJiX0mw  
+  提取码：xxu3
 
 产品图片
 --------
