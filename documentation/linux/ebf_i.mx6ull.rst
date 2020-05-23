@@ -10,6 +10,13 @@
 -  《 [野火]EBF6ULL 硬件资料 》: https://ebf-6ull-hardware.readthedocs.io
 
 
+
+配套视频 （陆续更新中）
+--------
+https://www.bilibili.com/video/BV1JK4y1t7io
+
+
+
 资料下载链接（网盘）
 --------------------
 前资料还在持续更新中，敬请关注。
