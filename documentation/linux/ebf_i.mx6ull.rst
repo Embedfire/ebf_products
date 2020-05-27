@@ -9,6 +9,8 @@
 
 -  《 [野火]EBF6ULL 硬件资料 》: https://ebf-6ull-hardware.readthedocs.io
 
+*推荐直接阅读在线文档，里面是更新中的最新状态，在页面左下角可以另存为PDF*
+
 
 
 配套视频 （陆续更新中）
