@@ -27,7 +27,7 @@ https://ebf-emwin-tutorial.readthedocs.io
 
 
 视频在线观看：
-https://www.bilibili.com/video/av94409908  （待补，先从云盘下载）
+https://www.bilibili.com/video/BV16t4y117rN
  
  
 视频下载链接：
