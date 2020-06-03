@@ -10,7 +10,7 @@
 F429第一代开发板与目前在售的F429开发板的主要区别为：
 第一代板子无核心板设计，整体为一个板子。目前在售的F429产品带核心板。
 
--  链接：http://pan.baidu.com/s/1jIrwDSU
+-  链接：https://pan.baidu.com/s/1C3YyE8mJGFoQUudy8x7ipA 提取码：v6bm
 
 产品图片
 --------

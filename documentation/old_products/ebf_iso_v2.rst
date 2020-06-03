@@ -7,7 +7,7 @@
 
 ISO-V2为旧产品，使用本资料时请务必注意区分产品类型。
 
--  链接：http://pan.baidu.com/s/1eSnaQzg
+-  链接：链接：https://pan.baidu.com/s/18FPjcpJ2nZXzd_XgmWCVFw  提取码：kqpd
 
 产品图片
 --------

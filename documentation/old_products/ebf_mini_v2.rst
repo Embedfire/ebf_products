@@ -11,7 +11,7 @@ MINI-V2开发板与目前在售的开发板的外观主要区别为：
 
 MINI-V2不含WIFI模块，目前在售的MINI开发板含WIFI模块。
 
--  百度网盘 下载链接：http://pan.baidu.com/s/1geTMcCz
+-  百度网盘 下载链接：https://pan.baidu.com/s/1EtUnJCrCOqKbt62JsKIOiw  提取码：s52u
 
 产品图片
 --------
