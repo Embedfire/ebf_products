@@ -11,7 +11,8 @@ ISO-V1与ISO-V2版本的区别为，ISO-V1没有板载外部SRAM，
 
 ISO-V2板载了外部SRAM
 
--  百度网盘 下载链接：https://pan.baidu.com/s/18xAePcWKePI9R3FVcBP35w 提取码：ksfp
+
+-  百度网盘 下载链接：https://pan.baidu.com/s/1yVPC1JvqMUZAMpbFxrwz_g 提取码：0c1w
 
 产品图片
 --------
