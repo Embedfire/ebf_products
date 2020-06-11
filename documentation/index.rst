@@ -21,6 +21,7 @@
    stm32/index
    i.mx-rt/index
    linux/index
+   fpga/index
 
 .. toctree::
    :maxdepth: 2
