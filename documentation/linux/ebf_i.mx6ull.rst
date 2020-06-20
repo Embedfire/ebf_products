@@ -15,7 +15,8 @@
 
 配套视频 （陆续更新中）
 --------
-https://www.bilibili.com/video/BV1JK4y1t7io
+视频：       https://www.bilibili.com/video/BV1JK4y1t7io
+课件与笔记:  https://gitee.com/Embedfire-imx6/embed_linux_tutorial_ppt
 
 
 
@@ -57,31 +58,43 @@ Git代码仓库
 ----------------------
 网盘的代码更新管理不方便，我们建议大家到github或国内gitee中下载源码，教程对应章节或者项目readme部分有相关说明：
 
-github链接 ：https://github.com/Embedfire  -  gitee链接  : https://gitee.com/organizations/wildfireteam/projects
+github链接 ：https://github.com/Embedfire  
+
+gitee链接  : https://gitee.com/Embedfire
 
 
 
 **野火《i.MX Linux开发实战指南》章节代码**
 
-github链接 ：https://github.com/Embedfire/embed_linux_tutorial  -  gitee链接  : https://gitee.com/wildfireteam/embed_linux_tutorial
+github链接 ：https://github.com/Embedfire/embed_linux_tutorial 
+
+gitee链接  : https://gitee.com/Embedfire/embed_linux_tutorial
 
 
 
 **Debian系统**
 
-github链接 ：https://gitee.com/wildfireteam/ebf-image-builder  -  gitee链接  : https://github.com/Embedfire/ebf-image-builder
+github链接 ：https://github.com/Embedfire/ebf-image-builder
+
+gitee链接  : https://gitee.com/Embedfire/ebf-image-builder
    
 -  野火QtApp桌面源码 
 
-github链接 ：https://github.com/Embedfire/ebf_debian_qt_demo   -  gitee链接  ：https://gitee.com/wildfireteam/ebf_debian_qt_demo
+github链接 ：https://github.com/Embedfire/ebf_debian_qt_demo
+
+gitee链接  ：https://gitee.com/wildfireteam/ebf_debian_qt_demo
 
 -  野火uboot源码      
 
-github链接 ：https://github.com/Embedfire/ebf-buster-uboot     -   gitee链接  ：https://gitee.com/wildfireteam/ebf-buster-uboot
+github链接 ：https://github.com/Embedfire/ebf-buster-uboot 
+
+gitee链接  ：https://gitee.com/Embedfire/ebf-buster-uboot
 
 -  野火Linux内核源码
 
-github链接 ：https://github.com/Embedfire/ebf-buster-linux     -   gitee链接  : https://gitee.com/wildfireteam/ebf-buster-linux
+github链接 ：https://github.com/Embedfire/ebf-buster-linux  
+
+gitee链接  : https://gitee.com/Embedfire/ebf-buster-linux
    
 
 
