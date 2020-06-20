@@ -16,6 +16,7 @@
 配套视频 （陆续更新中）
 --------
 视频：       https://www.bilibili.com/video/BV1JK4y1t7io
+
 课件与笔记:  https://gitee.com/Embedfire-imx6/embed_linux_tutorial_ppt
 
 
@@ -24,7 +25,7 @@
 --------------------
 前资料还在持续更新中，敬请关注。
 
-**特别是内核和文件系统的镜像，我们会持续修复各种bug，初学用户请先不要刷固件到板载的NAND和EMMC上，推荐实验时使用SD卡制作镜像。**
+**特别是内核和文件系统的镜像，我们会持续修复各种bug，初学用户请先不要刷固件到板载的NAND和EMMC上，推荐实验时按照教程说明下载debian云盘和用SD卡制作镜像。**
 
 -  野火i.MX6ULL Linux开发板配套资料，适用于：
 
@@ -33,24 +34,20 @@
 #. 【i.MX 6ULL S1 Mini底板】
 #. 【i.MX 6ULL S1 Pro底板】
 
-**下载时建议先只下载“0-开发板用前必读”、“1-野火开源图书合集”、“2-硬件资料”、“8-开发软件”、“9-参考资料” 部分，其它资料比较大，而且我们会持续更新，推荐用到的时候再下载。**
+**下载时建议先只下载“0-开发板用前必读”、“1-野火开源图书合集”、“2-硬件资料”、“3-Debian镜像”、“4-硬件资料”、“8-开发软件”、“9-参考资料” 部分，其它资料比较大，而且我们会持续更新，推荐用到的时候再下载。**
 
 - 综合资料百度云资料链接：
   https://pan.baidu.com/s/1iFsSAmkKCfo59Sr1hRCC2w
   提取码：rkf2
-*该云盘里面的固件和源码为目前开发板出厂默认烧录的系统。Debian系统相关源码请看下面仓库链接。*
 
 
-Debian镜像 (教程中使用系统)
+Debian镜像单独链接 (教程中使用系统)
 -----------
 此处发布的Debian镜像适用于野火imx6开发板，使用debian镜像非常方便于应用apt工具安装各种各样的软件，如gcc、python、java等环境，完全可以把它当成普通debian来使用。
 
-- Debian镜像链接：
-链接：https://pan.baidu.com/s/1ANFMMFA9fZQltIQtQafhvw
-提取码：r9ot 
 
-
-
+链接：https://pan.baidu.com/s/1pqVHVIdY97VApz-rVVa8pQ 
+提取码：uge1 
 
 
 
