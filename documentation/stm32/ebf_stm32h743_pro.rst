@@ -8,8 +8,8 @@
 
 野火STM32H743 Pro开发板资料链接：
 
-- 资料盘链接：https://pan.baidu.com/s/1OMMHqqZ2avJOGo1Ejmqvpw
-- 提取码：j4x7
+- 资料盘链接：https://pan.baidu.com/s/1F2wpjiFsISx-wQDNbFU5UQ
+- 提取码：7dr7
 
 
 产品图片
