@@ -17,8 +17,8 @@
 
 
 
--  视频盘 链接： https://pan.baidu.com/s/1EFVE0QpmZqGvPKZw6-61XQ
--  提取码：bcpx
+-  视频盘 链接： https://pan.baidu.com/s/1I_mjUOUiOYq-HVL8F3q-zw
+-  提取码：1xd1
 
 
 视频网盘经常失效，请移步在线观看平台：
