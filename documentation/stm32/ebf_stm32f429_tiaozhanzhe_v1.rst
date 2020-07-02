@@ -17,8 +17,8 @@
 
 
 
--  视频盘 链接： https://pan.baidu.com/s/1MgjvUyFR1e9UPbRlw9coLw
--  提取码：e2cp
+-  视频盘 链接： https://pan.baidu.com/s/1cG1T-f-ahnkIM4gg4mZJSA 
+-  提取码：6gpg 
 
 视频网盘经常失效，请移步在线观看平台：
 

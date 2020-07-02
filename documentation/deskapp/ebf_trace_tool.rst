@@ -6,11 +6,14 @@
 多功能调试助手FireTools【新版Qt】
 ------------
 
-    下载地址1：http://t.cn/A6w7JiKs （境外，sourceforge）
+    下载地址1：https://sourceforge.net/projects/firetools （境外，sourceforge，包含Windows版本、Ubuntu版本）
 
-    下载地址2：https://cloud.embedfire.com/software/FireClass/package/FireClass-Installer-x64-v1.0.2.4.exe
+    下载地址2：链接：https://pan.baidu.com/s/14zEjYNlU-2CjgoR1sI5dSg 提取码：rau0 （百度云下载，包含Windows版本、Ubuntu版本）
 
-    下载地址3：https://pan.baidu.com/s/1N6ODCAO4i2x8rXXOLMJm4Q 提取码：hn4w（百度云下载）
+    下载地址3：https://cloud.embedfire.com/software/FireTools/fireTools-win64-v1.0.1.5.zip （阿里云下载，只含Windows版本）
+
+    下载地址4：https://cloud.embedfire.com/software/FireTools/fireTools.deb （阿里云下载，只含Ubuntu版本）
+
 
     
     详情介绍：https://www.firebbs.cn/forum.php?mod=viewthread&tid=29790
