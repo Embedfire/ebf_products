@@ -7,10 +7,9 @@
 
 本资料包含野火各开发板配套的程序，可根据需要选择下载。
 
-[野火]《STM32 HAL库开发实战指南》系列：
 
-- 链接：https://pan.baidu.com/s/10kJ4IUOlOlBPp-F2xHDadw
-- 提取码：nfj7
+- 链接：https://pan.baidu.com/s/1tw68lIFJHXGqnbaf3oxXXQ
+- 提取码：tc72
 
 产品图片
 --------
