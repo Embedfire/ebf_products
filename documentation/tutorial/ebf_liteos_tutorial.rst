@@ -18,5 +18,5 @@
 物联网操作系统 LiteOS开发实战指南
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: media/LiteOS源码详解与应用开发实战指南.jpg
+.. figure:: media/LiteOS源码详解与应用开发实战指南2.jpg
    :alt: 物联网操作系统 LiteOS开发实战指南
