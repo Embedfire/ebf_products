@@ -7,8 +7,9 @@
 
 野火【DAP下载器】资料链接,本资料适用于普通版及高速版DAP下载器：
 
-- 链接：https://pan.baidu.com/s/1aAH8573dm-aotAdF3-ZONQ 
-- 提取码：6jcf 
+- 链接：https://pan.baidu.com/s/1rpJvzulTt2XfjphMEU9sww  
+- 提取码：ju7i
+
 
 
 产品图片
