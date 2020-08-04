@@ -9,18 +9,25 @@
 
 -  《 [野火]EBF6ULL 硬件资料 》: https://ebf-6ull-hardware.readthedocs.io
 
-*推荐直接阅读在线文档，里面是更新中的最新状态，在页面左下角可以另存为PDF*
+*推荐直接阅读在线文档，里面是更新中的最新状态，在页面左下角可以另存为HTML离线浏览*
 
 
 
 配套视频 （陆续更新中）
 --------
-视频：       https://www.bilibili.com/video/BV1JK4y1t7io
+在线视频：       https://www.bilibili.com/video/BV1JK4y1t7io
 
-课件与笔记:  https://gitee.com/Embedfire-imx6/embed_linux_tutorial_ppt
+云盘下载视频：   https://pan.baidu.com/s/1jp15pPk5gCF3q2IKDF_95A    提取码：wcfa 
+
+
+课件与笔记仓库:      https://gitee.com/Embedfire-imx6/embed_linux_tutorial_ppt
+课件与笔记云盘下载:  https://pan.baidu.com/s/1NM47YIOC6JWu95uCDZ0NyA  提取码：a0h9
 
 
 
+链接：https://pan.baidu.com/s/1NM47YIOC6JWu95uCDZ0NyA 
+提取码：a0h9 
+复制这段内容后打开百度网盘手机App，操作更方便哦
 资料下载链接（网盘）
 --------------------
 前资料还在持续更新中，敬请关注。
