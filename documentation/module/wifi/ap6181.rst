@@ -45,7 +45,7 @@ github仓库和gitee仓库的内容是一样的，在国内gitee下载会快一�
 
 github仓库:https://github.com/Embedfire-WiFi-AP
 
-gitee仓库:https://gitee.com/Embedfrie-WiFi-AP
+gitee仓库:https://gitee.com/Embedfire-WiFi-AP
 
 
 
