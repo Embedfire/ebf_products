@@ -11,8 +11,9 @@
 
 [野火]《FreeRTOS内核实现与应用开发实战指南》系列：
 
-- 链接：https://pan.baidu.com/s/1Jw05ry_GLBy70PZ99v0S0Q
-- 提取码：4i1n
+- 链接：https://pan.baidu.com/s/1za6pEITmB9pX-YjYUMiFug
+
+- 提取码：12jz 
 
 
 配套视频
