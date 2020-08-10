@@ -13,14 +13,17 @@
 
 EP4CE10开发板【资料盘】-百度云
 
--  链接：https://pan.baidu.com/s/1ILCmt09vW6oIv8KokJjSLg
--  提取码：gvx2
+-  链接：https://pan.baidu.com/s/1nCQYiCkYPnDdVoev6KvzlA
+-  提取码：mwyh
+
 
 
 EP4CE10开发板【视频盘】-百度云
 
--  链接：https://pan.baidu.com/s/1TQa9JR74-q6mpsPExg01DA
--  提取码：2zpv
+-  链接：https://pan.baidu.com/s/1XGqGItVCTGPmFPO3a2PSLQ
+-  提取码：uqnz
+
+
 
 在线教学视频链接：
 
