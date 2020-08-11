@@ -10,6 +10,12 @@
 - 链接：https://pan.baidu.com/s/1c52HgRjnOATYo7AuNy1EIw
 - 提取码：ilzd
 
+
+**该资料为对应旧驱动器模块，现在新驱动器资料请前往 步进电机驱动器_EBF-MSD4805 资料页面下载**
+
+
+
+
 产品图片
 --------
 
