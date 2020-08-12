@@ -5,9 +5,34 @@
 资料下载链接
 ------------
 
-野火【EC20】模块说明链接：
+**野火4G_EC20模块 目前主要对应 野火i.MX6ULL Linux开发板 使用**
+
+
+云盘资料：https://pan.baidu.com/s/1gwayaurltoY2ZwQobI6Iow
+
+提取码：x7cj
+
+
+模块对于开发板使用说明章节链接：
 
 https://tutorial.linux.doc.embedfire.com/zh_CN/latest/linux_basis/ec20_4g_module.html
+
+
+
+野火i.MX6ULL Linux开发板资料链接：
+
+https://ebf-products.readthedocs.io/zh_CN/latest/linux/ebf_i.mx6ull.html
+
+
+
+
+
+
+
+
+
+
+
 
 产品图片
 --------
