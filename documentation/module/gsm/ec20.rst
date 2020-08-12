@@ -8,9 +8,8 @@
 **野火4G_EC20模块 目前主要对应 野火i.MX6ULL Linux开发板 使用**
 
 
-云盘资料：https://pan.baidu.com/s/1gwayaurltoY2ZwQobI6Iow
+云盘资料：https://pan.baidu.com/s/1gwayaurltoY2ZwQobI6Iow  提取码：x7cj
 
-提取码：x7cj
 
 
 模块对于开发板使用说明章节链接：
