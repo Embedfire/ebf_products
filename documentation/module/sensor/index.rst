@@ -20,6 +20,10 @@
    mpu6050
    paj7620
    vl53l0x
+   ldr
+   ap3216c
+   
+
 
 
 
