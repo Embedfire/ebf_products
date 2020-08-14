@@ -109,7 +109,7 @@ gitee链接  : https://gitee.com/Embedfire/ebf-buster-linux
 
 
 
-**出厂系统**
+*Yocto(buildroot)系统**
 
 -  野火QtApp桌面源码
 
