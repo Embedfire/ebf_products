@@ -82,7 +82,7 @@ gitee链接  : https://gitee.com/Embedfire/embed_linux_tutorial
 
 
 
-**Debian系统**
+**Debian镜像**
 
 github链接 ：https://github.com/Embedfire/ebf-image-builder
 
@@ -109,7 +109,7 @@ gitee链接  : https://gitee.com/Embedfire/ebf-buster-linux
 
 
 
-*Yocto(buildroot)系统**
+**Yocto(buildroot)镜像**
 
 -  野火QtApp桌面源码
 
