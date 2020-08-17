@@ -27,28 +27,24 @@
 
 
 
-
-
 综合资料下载链接（网盘）
 --------------------
 资料还在持续更新中，敬请关注。
 
--  野火i.MX6ULL Linux开发板配套资料，适用于：
+-  野火i.MX6ULL Linux开发板配套资料，包含和适用于：
 
-1. 【i.MX 6ULL S1 邮票孔接口核心板】
-#. 【i.MX 6ULL S1 BTB接口核心板】
-#. 【i.MX 6ULL S1 Mini底板】
-#. 【i.MX 6ULL S1 Pro底板】
+1. 【i.MX 6ULL S1邮票孔 B1BTB F1金手指  核心板】
+2. 【i.MX 6ULL Pro Mini  底板】
 
-**下载时建议先只下载“0-开发板用前必读”、“1-野火开源图书合集”、“2-硬件资料”、“3-Debian镜像”、“4-硬件资料”、“8-开发软件”、“9-参考资料” 部分，其它资料比较大，推荐用到的时候再下载。
-相关源码部分建议从页面下仓库地址直接git克隆获取**
+
+**云盘资料主要下载“0-开发板用前必读”、“1-野火开源图书合集”、“2-硬件资料”、“3-Debian镜像”、“5-NXP官方手册”、“6-开发软件”、“7-参考资料” 。**
+
+**源码部分需要从页面下仓库地址直接git克隆获取**
 
 - 综合资料百度云资料链接：
   https://pan.baidu.com/s/1kJdJ6xc12Yg4rPby_MatDA
 
   提取码：4u7d 
-
-
 
 
 Debian镜像单独链接 (教程中使用系统)
@@ -66,62 +62,89 @@ https://sourceforge.net/projects/ebf-debian-firmware/files/
 
 Git代码仓库
 ----------------------
-网盘的代码更新管理不方便，我们建议大家到github或国内gitee中下载源码，教程对应章节或者项目readme部分有相关说明：
+网盘的代码更新管理不方便，我们建议大家到github或国内gitee中下载源码，仓库内容同步一致，教程对应章节或者项目readme部分有相关说明：
 
-github链接 ：https://github.com/Embedfire  
+**总仓库**
 
-gitee链接  : https://gitee.com/Embedfire
+Github ：https://github.com/Embedfire  
 
+Gitee  : https://gitee.com/Embedfire
 
 
 **野火《i.MX Linux开发实战指南》章节代码**
 
-github链接 ：https://github.com/Embedfire/embed_linux_tutorial 
+Github ：https://github.com/Embedfire/embed_linux_tutorial 
 
-gitee链接  : https://gitee.com/Embedfire/embed_linux_tutorial
+Gitee  : https://gitee.com/Embedfire/embed_linux_tutorial
 
 
 
 **Debian镜像**
 
-github链接 ：https://github.com/Embedfire/ebf-image-builder
+-  Debian文件系统
 
-gitee链接  : https://gitee.com/Embedfire/ebf-image-builder
+Github ：https://github.com/Embedfire/ebf-image-builder
+
+Gitee  : https://gitee.com/Embedfire/ebf-image-builder
    
--  野火QtApp桌面源码 
+-  Debian_QtApp源码 
 
-github链接 ：https://github.com/Embedfire/ebf_debian_qt_demo
+Github ：https://github.com/Embedfire/ebf_debian_qt_demo
 
-gitee链接  ：https://gitee.com/wildfireteam/ebf_debian_qt_demo
+Gitee  ：https://gitee.com/wildfireteam/ebf_debian_qt_demo
 
--  野火uboot源码      
+-  野火Uboot源码      
 
-github链接 ：https://github.com/Embedfire/ebf-buster-uboot 
+Github ：https://github.com/Embedfire/ebf-buster-uboot 
 
-gitee链接  ：https://gitee.com/Embedfire/ebf-buster-uboot
+Gitee  ：https://gitee.com/Embedfire/ebf-buster-uboot
 
 -  野火Linux内核源码
 
-github链接 ：https://github.com/Embedfire/ebf-buster-linux  
+Github ：https://github.com/Embedfire/ebf-buster-linux  
 
-gitee链接  : https://gitee.com/Embedfire/ebf-buster-linux
+Gitee  : https://gitee.com/Embedfire/ebf-buster-linux
    
+-  设备树插件
+
+Github ：https://github.com/Embedfire/ebf-linux-dtoverlays  
+
+Gitee  : https://gitee.com/Embedfire/ebf-linux-dtoverlays
+
+
 
 
 
 **Yocto(buildroot)镜像**
 
--  野火QtApp桌面源码
+-  Yocto
 
-github链接 ：https://github.com/Embedfire/ebf_linux_qt_demo     -  gitee链接  ：https://gitee.com/wildfireteam/ebf_linux_qt_demo
+云盘资料目录： i.MX6ULL 系列\4-Yocto(buildroot)镜像\3-构建工具
 
--  野火uboot源码 
+-  Buildroot
 
-github链接 ：https://github.com/Embedfire/ebf_6ull_uboot        -  gitee链接  ：https://gitee.com/wildfireteam/ebf_6ull_uboot
+Github ：https://github.com/Embedfire/ebf_6ull_buildroot  
+
+Gitee  :  https://gitee.com/Embedfire/ebf_6ull_buildroot
+
+
+-  QtApp源码
+
+Github ：https://github.com/Embedfire/ebf_linux_qt_demo     
+
+Gitee  ：https://gitee.com/wildfireteam/ebf_linux_qt_demo
+
+-  野火Uboot源码 
+
+Github ：https://github.com/Embedfire/ebf_6ull_uboot        
+
+Gitee  ：https://gitee.com/wildfireteam/ebf_6ull_uboot
 
 -  野火Linux内核源码  
 
-github链接 ：https://github.com/Embedfire/ebf_6ull_linux        -   gitee链接  : https://gitee.com/wildfireteam/ebf_6ull_linux
+Github ：https://github.com/Embedfire/ebf_6ull_linux        
+
+Gitee  : https://gitee.com/wildfireteam/ebf_6ull_linux
 
 
 
