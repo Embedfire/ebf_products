@@ -93,19 +93,19 @@ Github ：https://github.com/Embedfire/ebf_debian_qt_demo
 
 Gitee  ：https://gitee.com/wildfireteam/ebf_debian_qt_demo
 
--  野火Uboot源码      
+-  Debian_Uboot源码      
 
 Github ：https://github.com/Embedfire/ebf-buster-uboot 
 
 Gitee  ：https://gitee.com/Embedfire/ebf-buster-uboot
 
--  野火Linux内核源码
+-  Debian_Linux内核源码
 
 Github ：https://github.com/Embedfire/ebf-buster-linux  
 
 Gitee  : https://gitee.com/Embedfire/ebf-buster-linux
    
--  设备树插件
+-  Debian_设备树插件
 
 Github ：https://github.com/Embedfire/ebf-linux-dtoverlays  
 
@@ -134,13 +134,13 @@ Github ：https://github.com/Embedfire/ebf_linux_qt_demo
 
 Gitee  ：https://gitee.com/wildfireteam/ebf_linux_qt_demo
 
--  野火Uboot源码 
+-  Uboot源码 
 
 Github ：https://github.com/Embedfire/ebf_6ull_uboot        
 
 Gitee  ：https://gitee.com/wildfireteam/ebf_6ull_uboot
 
--  野火Linux内核源码  
+-  Linux内核源码  
 
 Github ：https://github.com/Embedfire/ebf_6ull_linux        
 
