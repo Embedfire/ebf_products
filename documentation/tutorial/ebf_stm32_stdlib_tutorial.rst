@@ -31,25 +31,17 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 《STM32库开发实战指南》视频教程，基于STM32F103_MINI开发板：
 
-- 链接：https://pan.baidu.com/s/1FW982rHHAe_kGkvfA0tkFw
-- 提取码：ohyw
+- 链接：https://pan.baidu.com/s/1yJwpoPjZwf66-P3oyLMWMQ
+- 提取码：agyw
 
-基于STM32F103_指南者开发板
+
+
+基于STM32F103_指南者/霸道开发板
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-《STM32库开发实战指南》视频教程，基于STM32F103_指南者开发板：
+《STM32库开发实战指南》视频教程，基于STM32F103_指南者/霸道开发板：
 
-- 链接：https://pan.baidu.com/s/13azgBXHrWnU6eX_YtHfAmw
-- 提取码：spoc
-
-
-
-
-基于STM32F103_霸道开发板
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-《STM32库开发实战指南》视频教程，基于STM32F103_霸道及霸道_V2开发板：
-
-- 链接：https://pan.baidu.com/s/1dReYGd7al9QT2bVNnvb5RQ
-- 提取码：1gwa
+- 链接：https://pan.baidu.com/s/1hij6XjCiPYoXVLg7-bpxuw
+- 提取码：znsc
 
 
 
@@ -58,8 +50,9 @@
 
 《STM32库开发实战指南》视频教程，基于STM32F407_霸天虎及霸天虎_V2开发板：
 
-- 链接：https://pan.baidu.com/s/17PJE03yi-im5GPyP5eb3-w
-- 提取码：ji0n
+- 链接：https://pan.baidu.com/s/1I_mjUOUiOYq-HVL8F3q-zw
+- 提取码：1xd1
+
 
 
 基于STM32F429_挑战者开发板
@@ -67,8 +60,8 @@
 
 《STM32库开发实战指南》视频教程，基于STM32F429_挑战者及挑战者_V2开发板：
 
-- 链接：https://pan.baidu.com/s/1DiVhePd9ZYVvdQ8AsoWEcA
-- 提取码：jhcr
+- 链接：https://pan.baidu.com/s/1cG1T-f-ahnkIM4gg4mZJSA
+- 提取码：6gpg
 
 
 
