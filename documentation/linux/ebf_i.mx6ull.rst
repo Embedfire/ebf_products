@@ -13,17 +13,20 @@
 
 
 
-配套视频 （陆续更新中）
+配套视频 
 --------
-在线视频：       https://www.bilibili.com/video/BV1JK4y1t7io
 
-视频云盘下载：   https://pan.baidu.com/s/1jp15pPk5gCF3q2IKDF_95A     提取码：wcfa 
+在线视频：
+第一期-零基础入门篇-47集 ：https://www.bilibili.com/video/BV1JK4y1t7io
+第二期-内核编程篇-20集   ：https://www.bilibili.com/video/BV1PK411T7MA
+第三期-裸机开发篇-21集   ：https://www.bilibili.com/video/BV1JK4y1Y7xQ
+第四期-驱动开发篇-现有44集，周更中 ：https://www.bilibili.com/video/BV1pf4y1974n
 
+全部视频云盘下载：       https://pan.baidu.com/s/1jp15pPk5gCF3q2IKDF_95A  提取码：wcfa 
 
+视频课件与笔记云盘下载:  https://pan.baidu.com/s/1NM47YIOC6JWu95uCDZ0NyA  提取码：a0h9
 
-课件与笔记仓库:      https://gitee.com/Embedfire-imx6/embed_linux_tutorial_ppt
-
-课件与笔记云盘下载:  https://pan.baidu.com/s/1NM47YIOC6JWu95uCDZ0NyA  提取码：a0h9
+视频课件与笔记仓库:      https://gitee.com/Embedfire-imx6/embed_linux_tutorial_ppt
 
 
 
