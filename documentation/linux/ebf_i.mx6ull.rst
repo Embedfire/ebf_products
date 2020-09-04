@@ -17,10 +17,15 @@
 --------
 
 在线视频：
+
 第一期-零基础入门篇-47集 ：https://www.bilibili.com/video/BV1JK4y1t7io
+
 第二期-内核编程篇-20集   ：https://www.bilibili.com/video/BV1PK411T7MA
+
 第三期-裸机开发篇-21集   ：https://www.bilibili.com/video/BV1JK4y1Y7xQ
+
 第四期-驱动开发篇-现有44集，周更中 ：https://www.bilibili.com/video/BV1pf4y1974n
+
 
 全部视频云盘下载：       https://pan.baidu.com/s/1jp15pPk5gCF3q2IKDF_95A  提取码：wcfa 
 
