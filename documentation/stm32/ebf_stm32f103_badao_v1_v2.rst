@@ -11,7 +11,7 @@
 
 
 
-视频盘 链接：（内含课件）
+指南者/霸道 通用视频盘 链接：（内含课件）
 
 - 链接：https://pan.baidu.com/s/1jlOEfRyRiUXsi3_QoVgVqQ
 - 提取码：3ntv

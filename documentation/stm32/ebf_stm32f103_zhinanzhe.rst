@@ -8,17 +8,15 @@
 
 野火STM32F103指南者开发板资料链接：
 
--  资料盘 链接： https://pan.baidu.com/s/1SbwiyefvW7zwtWZVF7d85g 
--  提取码：7tnc
-
-备份资料链接：
-
--  资料盘 链接：https://pan.baidu.com/s/1fYNZ9o1RLEzH_KdBORSnIg 
+-  链接： https://pan.baidu.com/s/1fYNZ9o1RLEzH_KdBORSnIg 
 -  提取码：om57
 
 
--  视频盘 链接: https://pan.baidu.com/s/1hij6XjCiPYoXVLg7-bpxuw
--  提取码:znsc
+
+指南者/霸道 通用视频盘 链接：（内含课件）
+
+- 链接：https://pan.baidu.com/s/1jlOEfRyRiUXsi3_QoVgVqQ
+- 提取码：3ntv
 
 
 视频网盘经常失效，请移步在线观看平台：
