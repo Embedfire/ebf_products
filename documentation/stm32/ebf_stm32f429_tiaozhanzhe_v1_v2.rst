@@ -1,11 +1,11 @@
 
-野火STM32F429挑战者_V1开发板
+野火STM32F429挑战者_V1_V2开发板
 ============================
 
 资料下载链接
 ------------
 
-野火STM32F429挑战者_V1开发板资料链接：
+野火STM32F429挑战者_V1_V2开发板资料链接：
 
 - 资料盘链接： https://pan.baidu.com/s/1wbhXPH5SJxI4AnNKxcBsqw
 - 提取码：3gf8
@@ -16,9 +16,10 @@
 - 提取码：9owt
 
 
+视频盘 链接：（内含课件）
 
--  视频盘 链接： https://pan.baidu.com/s/1cG1T-f-ahnkIM4gg4mZJSA 
--  提取码：6gpg 
+- 链接：https://pan.baidu.com/s/1SUS3twoLcMU4TUDqLXCR7Q
+- 提取码：2zp7
 
 视频网盘经常失效，请移步在线观看平台：
 
@@ -30,6 +31,23 @@
 
 产品图片
 --------
+
+STM32F429挑战者_V2核心板
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: media/stm32f429_tiaozhanzhe_v2/stm32f429_tiaozhanzhe_v2_core.jpg
+   :alt: STM32F429挑战者_V2核心板
+
+
+
+STM32F429挑战者_V2开发板
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: media/stm32f429_tiaozhanzhe_v2/stm32f429_tiaozhanzhe_v2.jpg
+   :alt: STM32F429挑战者_V2开发板
+
+
+
 
 STM32F429挑战者_V1核心板
 ~~~~~~~~~~~~~~~~~~~~~~~~

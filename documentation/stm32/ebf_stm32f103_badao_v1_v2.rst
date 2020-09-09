@@ -1,13 +1,21 @@
-野火STM32F103霸道_V1开发板
+野火STM32F103霸道_V1_V2开发板
 ==========================
 
 资料下载链接
 ------------
 
-野火STM32F103霸道_V1开发板资料链接：
+野火STM32F103霸道_V1_V2开发板资料链接：
 
 - 资料盘 链接：https://pan.baidu.com/s/1YiCmqaEIWk_pH7XkrWDtWQ
 - 提取码：lugv
+
+
+
+视频盘 链接：（内含课件）
+
+- 链接：https://pan.baidu.com/s/1jlOEfRyRiUXsi3_QoVgVqQ
+- 提取码：3ntv
+
 
 视频网盘经常失效，请移步在线观看平台：
 
@@ -16,16 +24,17 @@
 #. 网易云课堂：https://study.163.com/provider/400000000596001/course.htm
 
 
--  视频盘 链接：（内含课件）
-
-
-视频盘 链接: https://pan.baidu.com/s/1hij6XjCiPYoXVLg7-bpxuw
-提取码:znsc
-
 
 
 产品图片
 --------
+
+STM32F103霸道_V2开发板
+~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: media/stm32f103_badao_v2/stm32f103_badao_v2.jpg
+   :alt: STM32F103霸道_V2开发板
+
 
 STM32F103霸道_V1开发板
 ~~~~~~~~~~~~~~~~~~~~~~

@@ -13,16 +13,11 @@ STM32系列产品
 
    ebf_stm32f103c8t6_core
    ebf_stm32f103zet6_core
-   ebf_stm32f103_badao_v1
-   ebf_stm32f103_badao_v2
    ebf_stm32f103_mini
    ebf_stm32f103_zhinanzhe
-   ebf_stm32f407_batianhu_v1
-   ebf_stm32f407_batianhu_v2
-   ebf_stm32f429_tiaozhanzhe_v1
-   ebf_stm32f429_tiaozhanzhe_v2
-   ebf_stm32f767_tiaozhanzhe_v1
-   ebf_stm32f767_tiaozhanzhe_v2
+   ebf_stm32f103_badao_v1_v2
+   ebf_stm32f407_batianhu_v1_v2
+   ebf_stm32f429_tiaozhanzhe_v1_v2
    ebf_stm32h743_tiaozhanzhe_v2
    ebf_stm32h743_pro
    ebf_stm32h750_pro

@@ -1,11 +1,11 @@
 
-野火STM32F407霸天虎_V1开发板
+野火STM32F407霸天虎_V1_V2开发板
 ============================
 
 资料下载链接
 ------------
 
-野火STM32F407霸天虎_V1开发板资料链接：
+野火STM32F407霸天虎_V1_V2开发板资料链接：
 
 - 资料盘链接：https://pan.baidu.com/s/1zRiRZ_kW3hQy9uNXK0CUIg
 - 提取码：xbnm
@@ -16,9 +16,10 @@
 - 提取码：aa50
 
 
+视频盘 链接：（内含课件）
 
--  视频盘 链接： https://pan.baidu.com/s/1I_mjUOUiOYq-HVL8F3q-zw
--  提取码：1xd1
+- 链接：https://pan.baidu.com/s/1SY8PEZ-pTk9nY84DUimg9g
+- 提取码：65vp
 
 
 视频网盘经常失效，请移步在线观看平台：
@@ -29,6 +30,15 @@
 
 产品图片
 --------
+
+
+STM32F407霸天虎_V2开发板
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: media/stm32f407_batianhu_v2/stm32f407_batianhu_v2.jpg
+   :alt: STM32F407霸天虎_V2开发板
+
+
 
 STM32F407霸天虎_V1开发板
 ~~~~~~~~~~~~~~~~~~~~~~~~

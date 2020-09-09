@@ -31,8 +31,8 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 《STM32库开发实战指南》视频教程，基于STM32F103_MINI开发板：
 
-- 链接：https://pan.baidu.com/s/1yJwpoPjZwf66-P3oyLMWMQ
-- 提取码：agyw
+- 链接：https://pan.baidu.com/s/1w643OR30sjEKTEtvHzPI7A
+- 提取码：ytlt
 
 
 
@@ -40,8 +40,8 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 《STM32库开发实战指南》视频教程，基于STM32F103_指南者/霸道开发板：
 
-- 链接：https://pan.baidu.com/s/1hij6XjCiPYoXVLg7-bpxuw
-- 提取码：znsc
+- 链接：https://pan.baidu.com/s/1jlOEfRyRiUXsi3_QoVgVqQ
+- 提取码：3ntv
 
 
 
@@ -50,8 +50,8 @@
 
 《STM32库开发实战指南》视频教程，基于STM32F407_霸天虎及霸天虎_V2开发板：
 
-- 链接：https://pan.baidu.com/s/1I_mjUOUiOYq-HVL8F3q-zw
-- 提取码：1xd1
+- 链接：https://pan.baidu.com/s/1SY8PEZ-pTk9nY84DUimg9g
+- 提取码：65vp
 
 
 
@@ -60,8 +60,8 @@
 
 《STM32库开发实战指南》视频教程，基于STM32F429_挑战者及挑战者_V2开发板：
 
-- 链接：https://pan.baidu.com/s/1cG1T-f-ahnkIM4gg4mZJSA
-- 提取码：6gpg
+- 链接：https://pan.baidu.com/s/1SUS3twoLcMU4TUDqLXCR7Q
+- 提取码：2zp7
 
 
 
