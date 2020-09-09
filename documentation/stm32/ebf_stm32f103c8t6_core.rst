@@ -7,7 +7,7 @@
 
 野火STM32F103C8T6核心板资料链接：
 
--  资料盘 链接：https://pan.baidu.com/s/1Elgc4nvxXjiHLSZ2nXnSCQ
+-  链接：https://pan.baidu.com/s/1Elgc4nvxXjiHLSZ2nXnSCQ
 -  提取码：bmba
 
 重要说明

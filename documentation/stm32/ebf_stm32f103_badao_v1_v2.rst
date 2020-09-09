@@ -6,7 +6,7 @@
 
 野火STM32F103霸道_V1_V2开发板资料链接：
 
-- 资料盘 链接：https://pan.baidu.com/s/1YiCmqaEIWk_pH7XkrWDtWQ
+- 链接：https://pan.baidu.com/s/1YiCmqaEIWk_pH7XkrWDtWQ
 - 提取码：lugv
 
 

@@ -7,7 +7,7 @@
 
 野火STM32F407霸天虎_V1_V2开发板资料链接：
 
-- 资料盘链接：https://pan.baidu.com/s/194_fMGqnGMTCnVh-OQVvFg
+- 链接：https://pan.baidu.com/s/194_fMGqnGMTCnVh-OQVvFg
 - 提取码：aa50
 
 
