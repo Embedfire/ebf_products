@@ -20,6 +20,7 @@
    oled_i2c_0.96
    oled_spi_0.96
    ra8875_gt9157_5
+   lcd_nt35510_gt917s_4.3
 
 
 
