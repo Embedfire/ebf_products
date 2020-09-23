@@ -19,19 +19,23 @@ EP4CE10开发板【资料盘】-百度云
 
 EP4CE10开发板 视频资料
 
-真正的手把手教学，“波形图”教学法，现场画波形图写代码  现有89集周更中
+真正的手把手教学，“波形图”教学法，现场画波形图写代码  现有94集周更中
 
-在线视频链接：
+视频在线观看链接：
 
 https://www.bilibili.com/video/BV17z411i7er
 
 
-云盘下载链接：
+视频云盘下载链接：
 
 -  链接：https://pan.baidu.com/s/1XGqGItVCTGPmFPO3a2PSLQ
 -  提取码：uqnz
 
 
+视频PPT云盘链接：
+
+-  链接：https://pan.baidu.com/s/12GpVisW8LZ7XFAAZZHIbhQ
+-  提取码：rm54
 
 
 
