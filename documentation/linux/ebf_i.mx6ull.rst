@@ -24,7 +24,9 @@
 
 第三期-裸机开发篇-21集   ：https://www.bilibili.com/video/BV1JK4y1Y7xQ
 
-第四期-驱动开发篇-现有74集，周更中 ：https://www.bilibili.com/video/BV1pf4y1974n
+第四期-驱动开发篇-现有82集 ：https://www.bilibili.com/video/BV1pf4y1974n
+
+基础驱动篇暂时完结，文档整理后更新。
 
 
 全部视频云盘下载：       https://pan.baidu.com/s/1jp15pPk5gCF3q2IKDF_95A  提取码：wcfa 
