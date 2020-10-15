@@ -13,9 +13,11 @@
 重要说明
 --------
 
-**本核心板硬件裁剪自** :doc:`ebf_stm32f103_badao_v2` **,教程和程序均可直接参考该开发板的资源。**
+**本核心板硬件裁剪自** :野火霸道V2开发板  **,教程和程序均可直接参考该开发板的资源。**
 
-兼容资料下载链接：:doc:`ebf_stm32f103_badao_v2`
+兼容资料下载链接：https://ebf-products.readthedocs.io/zh_CN/latest/stm32/ebf_stm32f103_badao_v1_v2.html
+
+
 
 1. 核心板使用的STM32主控型号与 霸道_V2开发板完全一样，为STM32F103ZET6
 #. 核心板包含有按键，流水灯，EEPROM，FLASH，USB，串口，SD卡槽，液晶接口及引出所有IO
