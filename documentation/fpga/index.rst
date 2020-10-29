@@ -11,6 +11,7 @@ FPGA系列产品
    :maxdepth: 1
 
    ebf_altera-ep4ce10
+   ebf_xilinx-xc6slx16
 
 
 
