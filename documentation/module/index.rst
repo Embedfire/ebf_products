@@ -15,7 +15,6 @@
    gsm/index
    wifi/index
    sensor/index
-   motor/index
    gps/index
    relay/index
    bluetooth/index
