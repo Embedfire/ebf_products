@@ -19,6 +19,7 @@
    :titlesonly:
 
    stm32/index
+   stm32_motor/index 
    i.mx-rt/index
    linux/index
    fpga/index
