@@ -11,10 +11,12 @@
 
 
 
+
 野火STM32电机应用实战指南视频盘 （更新中）：
 
-链接：https://pan.baidu.com/s/1NWb0bkPxGGJnAafdv_D9-A 
-提取码：2g5a 
+- 链接：https://pan.baidu.com/s/1NWb0bkPxGGJnAafdv_D9-A 
+- 提取码：2g5a 
+
 
 
 视频在线地址（更新中）：
