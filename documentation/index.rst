@@ -47,7 +47,6 @@
    module/gsm/index
    module/wifi/index
    module/sensor/index
-   module/motor/index
    module/gps/index
    module/relay/index
    module/bluetooth/index
