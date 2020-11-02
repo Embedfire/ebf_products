@@ -43,6 +43,7 @@
    :caption: 配套模块
    :titlesonly:
 
+   module/adc_dac/index
    module/gsm/index
    module/wifi/index
    module/sensor/index
