@@ -38,7 +38,7 @@
    :alt: 野火直流有刷驱动板
 
 
-野火L298N刷驱动板
+野火L298N驱动板
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: media/motor_driver/ebf_l298n.jpg
