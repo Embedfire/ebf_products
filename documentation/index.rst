@@ -30,6 +30,7 @@
    :titlesonly:
 
    tutorial/index-lib
+   tutorial/index-motor
    tutorial/index-rtos
    tutorial/index-net
    tutorial/index-gui

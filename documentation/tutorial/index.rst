@@ -27,5 +27,7 @@
    ebf_stm32_hal_tutorial
    ebf_stm32_stdlib_tutorial
 
+   ebf_motor_tutorial
+
 
 
