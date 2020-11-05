@@ -15,5 +15,5 @@
 产品图片
 --------
 
-.. figure:: media/efb_ad9280_ ad9708.jpg
-   :alt: efb_ad9280_ ad9708
+.. figure:: media/efb_ad9280_ad9708.jpg
+   :alt: efb_ad9280_ad9708
