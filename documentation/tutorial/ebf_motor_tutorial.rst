@@ -11,7 +11,7 @@
 - 提取码：rg1k 
 
 
-链接单独包含电机应用开发实战指南图书，请在下网页选择下载对应野火开发板配套例程等：
+链接单独包含电机应用开发实战指南图书，请在下网页选择下载对应野火开发板例程等资料，电机开发板资料已包含该教程：
 
 https://ebf-products.readthedocs.io/zh_CN/latest/stm32_motor/index.html
 
