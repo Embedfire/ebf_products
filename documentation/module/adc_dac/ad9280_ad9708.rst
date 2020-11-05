@@ -1,6 +1,6 @@
 
 
-野火ADC_AD7192模块
+野火AD9280_AD9708模块-FPGA开发板专用
 =============================
 
 
@@ -15,5 +15,5 @@
 产品图片
 --------
 
-.. figure:: media/ebf_adc_ad7192.jpg
-   :alt: ebf_adc_ad7192
+.. figure:: media/efb_ad9280_ ad9708.jpg
+   :alt: efb_ad9280_ ad9708

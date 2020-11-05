@@ -11,3 +11,4 @@ ADC_DAC模块
    
    adc_ad7192
    dac_ad5689
+   ad9280_ad9708
