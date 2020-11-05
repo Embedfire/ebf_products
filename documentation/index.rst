@@ -45,14 +45,16 @@
    :titlesonly:
 
    module/adc_dac/index
-   module/gsm/index
-   module/wifi/index
    module/sensor/index
-   module/gps/index
-   module/relay/index
-   module/bluetooth/index
    module/screen/index
    module/camera/index
+   module/wifi/index
+   module/gps/index
+   module/gsm/index
+   module/relay/index
+   module/bluetooth/index
+   
+   
    module/enternet/index
    module/audio/index
    module/wireless_misc/index
