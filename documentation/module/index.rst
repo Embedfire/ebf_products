@@ -12,14 +12,14 @@
    :maxdepth: 2
 
    adc_dac/index
-   gsm/index
-   wifi/index
    sensor/index
+   screen/index
+   camera/index
+   wifi/index
    gps/index
    relay/index
    bluetooth/index
-   screen/index
-   camera/index
+   gsm/index 
    enternet/index
    audio/index
    wireless_misc/index
