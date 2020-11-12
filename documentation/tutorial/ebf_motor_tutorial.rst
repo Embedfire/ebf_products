@@ -1,6 +1,9 @@
 [野火]电机应用开发实战指南-基于STM32
 ==============================
 
+
+
+
 资料链接
 --------
 
@@ -14,6 +17,16 @@
 链接单独包含电机应用开发实战指南图书，请在下网页选择下载对应野火开发板例程等资料，电机开发板资料已包含该教程：
 
 https://ebf-products.readthedocs.io/zh_CN/latest/stm32_motor/index.html
+
+
+
+
+在线文档：（STM32系列通用）
+
+https://ebf-motor-tutorial-stm32f407.readthedocs.io/en/latest/index.html
+
+
+
 
 
 
