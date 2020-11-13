@@ -27,6 +27,9 @@ https://ebf-motor-tutorial-stm32f407.readthedocs.io/en/latest/index.html
 
 
 
+在线视频：（STM32系列通用）
+
+https://www.bilibili.com/video/BV1AZ4y1V7wt
 
 
 
