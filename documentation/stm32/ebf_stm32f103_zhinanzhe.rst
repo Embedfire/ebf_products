@@ -8,8 +8,8 @@
 
 野火STM32F103指南者开发板资料链接：
 
--  链接：https://pan.baidu.com/s/1RuafrpRaxG4xSUr0P0pn2w 
--  提取码：kcdg
+-  链接：https://pan.baidu.com/s/1plfIatf_BSTz6zHHNmWi9A 
+-  提取码：jn6o
 
 
 指南者/霸道 通用视频盘 链接：（内含课件）
