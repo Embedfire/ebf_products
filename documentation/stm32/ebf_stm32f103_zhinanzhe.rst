@@ -8,9 +8,8 @@
 
 野火STM32F103指南者开发板资料链接：
 
--  链接：https://pan.baidu.com/s/1ye3f1jmhI4t75yaB5H5zow
--  提取码：skil
-
+-  链接：https://pan.baidu.com/s/1jRFeYuxbsDfdlzUrkUUIrA
+-  提取码：ob5w
 
 
 
@@ -20,7 +19,7 @@
 
 野火STM32F103指南者备用资料链接：
 
-近期云盘链接莫名失效，请临时用下面链接，不便之处见谅，或者使用大学堂工具下载资料：
+近期云盘链接经常莫名失效，请临时用下面链接，不便之处见谅，或者使用大学堂工具下载资料：
 
 野火大学堂： https://www.firebbs.cn/forum.php?mod=viewthread&tid=29500&fromuid=1
 
