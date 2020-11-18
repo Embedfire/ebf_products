@@ -26,8 +26,8 @@
 - 资料必读说明
 
 
- - 链接：https://pan.baidu.com/s/1edH1-SZCydrhswF0Pz3q7w 
- - 提取码：90tj 
+ - 链接：https://pan.baidu.com/s/1YidMB7ppbCPC-y7_OPUk4g
+ - 提取码：6z53 
 
 
 - 2-开发板原理图_封装库_尺寸图_IC手册
