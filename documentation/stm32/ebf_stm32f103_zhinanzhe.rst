@@ -28,23 +28,22 @@
 - 1-程序源码_教程文档
 - 资料必读说明
 
-
-- 链接：https://pan.baidu.com/s/1ZS7WzmQhlQjST7irHf5K8w 
-- 提取码：j6fj 
+ - 链接：https://pan.baidu.com/s/1ZS7WzmQhlQjST7irHf5K8w 
+ - 提取码：j6fj 
 
 
 - 2-开发板原理图_封装库_尺寸图_IC手册
 - 3-STM32官方资料
 
-- 链接：https://pan.baidu.com/s/1xkN0QMEVhwOg6fXHPBfwcw 
-- 提取码：j5om 
+ - 链接：https://pan.baidu.com/s/1xkN0QMEVhwOg6fXHPBfwcw 
+ - 提取码：j5om 
 
 
 - 4-模块配套资料
 - 5-开发软件
 
-- 链接：https://pan.baidu.com/s/12DMvPwWSXqjmCW4qiVrChw 
-- 提取码：rtd7 
+ - 链接：https://pan.baidu.com/s/12DMvPwWSXqjmCW4qiVrChw 
+ - 提取码：rtd7 
 
 
 

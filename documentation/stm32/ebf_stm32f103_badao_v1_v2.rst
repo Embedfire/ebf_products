@@ -26,22 +26,22 @@
 - 资料必读说明
 
 
-- 链接：https://pan.baidu.com/s/1edH1-SZCydrhswF0Pz3q7w 
-- 提取码：90tj 
+ - 链接：https://pan.baidu.com/s/1edH1-SZCydrhswF0Pz3q7w 
+ - 提取码：90tj 
 
 
 - 2-开发板原理图_封装库_尺寸图_IC手册
 - 3-STM32官方资料
 
-- 链接：https://pan.baidu.com/s/1vbOTa5IXyOjxzfh_z8wjbg 
-- 提取码：fcsm
+ - 链接：https://pan.baidu.com/s/1vbOTa5IXyOjxzfh_z8wjbg 
+ - 提取码：fcsm
 
 
 - 4-模块配套资料
 - 5-开发软件
 
-- 链接：https://pan.baidu.com/s/1bU0H12yoazmBvI7bzQOS7A 
-- 提取码：rzm4 
+ - 链接：https://pan.baidu.com/s/1bU0H12yoazmBvI7bzQOS7A 
+ - 提取码：rzm4 
 
 
 
