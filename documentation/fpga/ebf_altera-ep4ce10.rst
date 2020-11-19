@@ -1,5 +1,5 @@
 
-野火FPGA-Altera-EP4CE10征途开发板
+野火FPGA-Altera-EP4CE10征途开发板_核心板
 =====================
 
 资料下载链接
@@ -17,7 +17,19 @@ EP4CE10开发板【资料盘】-百度云
 -  提取码：mwyh
 
 
-EP4CE10开发板 视频资料
+
+
+
+EP4CE10最小系统板-百度云
+
+-  链接：https://pan.baidu.com/s/1mk__sJFSwRTf4-73mauWxQ
+-  提取码：luky
+
+
+
+
+视频资料
+------------
 
 真正的手把手教学，“波形图”教学法，现场画波形图写代码  现有105集周更中
 
@@ -56,3 +68,9 @@ Altera-EP4CE10_征途_Mini_开发板
 .. figure:: media/ep4ce10/ebf_altera_mini.jpg
    :alt: Altera-EP4CE10_征途_Mini_开发板
 
+
+Altera-EP4CE10_最小系统板
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: media/ep4ce10/ebf_altera_core.jpg
+   :alt: Altera-EP4CE10_最小系统板
