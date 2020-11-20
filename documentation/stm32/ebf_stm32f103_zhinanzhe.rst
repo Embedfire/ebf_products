@@ -8,22 +8,23 @@
 
 野火STM32F103指南者开发板资料链接：
 
--  链接：https://pan.baidu.com/s/1rXQyHM7H34mGce3prymo4A
--  提取码：nwsj
+-  链接：https://pan.baidu.com/s/1uW43ZxCbpl9Z2ULRvZ0jZw
+-  提取码：suke
 
-链接： 
-提取码： 
-复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V7的分享
+
+
+近期该云盘链接经常莫名失效，如果链接失效时请临时用下面备用分散链接，不便之处见谅。
+
+或者可以使用大学堂工具下载资料：
+
+野火大学堂： https://www.firebbs.cn/forum.php?mod=viewthread&tid=29500&fromuid=1
+
 
 
 备用资料下载链接
 ------------
 
 野火STM32F103指南者备用资料链接：
-
-近期云盘链接经常莫名失效，请临时用下面链接，不便之处见谅，或者使用大学堂工具下载资料：
-
-野火大学堂： https://www.firebbs.cn/forum.php?mod=viewthread&tid=29500&fromuid=1
 
 
 - 0-开机例程源码

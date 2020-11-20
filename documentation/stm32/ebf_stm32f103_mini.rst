@@ -6,18 +6,23 @@
 
 野火STM32F103_MINI开发板资料链接：
 
-- 链接：https://pan.baidu.com/s/1KdscS1fsv44JHHSFjMRIDQ 
-- 提取码：n3gi 
+- 链接：https://pan.baidu.com/s/1hk7-PWdqf9eGoIeo3_ighw 
+- 提取码：m6g1 
+
+
+近期该云盘链接经常莫名失效，如果链接失效时请临时用下面的备用分散链接，不便之处见谅。
+
+或者可以使用大学堂工具下载资料：
+
+野火大学堂： https://www.firebbs.cn/forum.php?mod=viewthread&tid=29500&fromuid=1
+
+
 
 
 备用资料下载链接
 ------------
 
 野火STM32F103MINI备用资料链接：
-
-近期云盘链接经常莫名失效，请临时用下面链接，不便之处见谅，或者使用大学堂工具下载资料：
-
-野火大学堂： https://www.firebbs.cn/forum.php?mod=viewthread&tid=29500&fromuid=1
 
 
 - 0-开机例程源码
