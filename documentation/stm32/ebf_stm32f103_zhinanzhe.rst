@@ -8,7 +8,7 @@
 
 野火STM32F103指南者开发板资料链接：
 
--  链接：https://pan.baidu.com/s/13bnrB-S8Y6JDRdXBbzzb 
+-  链接：https://pan.baidu.com/s/13bnrB-S8Y6JDRdXBbzzbjA
 -  提取码：pmf1  
 
 
