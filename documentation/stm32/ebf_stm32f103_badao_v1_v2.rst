@@ -6,8 +6,8 @@
 
 野火STM32F103霸道_V1_V2开发板资料链接：
 
-- 链接：https://pan.baidu.com/s/1OhauxkZpanjcg0vhyqqY_w 
-- 提取码：kikf
+- 链接：https://pan.baidu.com/s/1a57mQHzcDEUKuNMKbS1aBA 
+- 提取码：vryl
 
 
 

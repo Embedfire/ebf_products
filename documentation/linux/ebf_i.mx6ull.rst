@@ -99,9 +99,9 @@ Gitee  : https://gitee.com/Embedfire/ebf-image-builder
    
 -  Debian_QtApp源码 
 
-Github ：https://github.com/Embedfire/ebf_debian_qt_demo
+Github ：https://github.com/Embedfire/ebf_linux_qt_demo/
 
-Gitee  ：https://gitee.com/wildfireteam/ebf_debian_qt_demo
+Gitee  ：https://gitee.com/Embedfire/ebf_linux_qt_demo/
 
 -  Debian_Uboot源码      
 
