@@ -25,29 +25,30 @@
 野火STM32F103霸道备用资料链接：
 
 
+- 资料必读说明
 - 0-开机例程源码
 - 1-程序源码_教程文档
-- 资料必读说明
-
-
- - 链接：https://pan.baidu.com/s/1YidMB7ppbCPC-y7_OPUk4g
- - 提取码：6z53 
-
-
 - 2-开发板原理图_封装库_尺寸图_IC手册
 - 3-STM32官方资料
 
- - 链接：https://pan.baidu.com/s/1vbOTa5IXyOjxzfh_z8wjbg 
- - 提取码：fcsm
+ - 链接：https://pan.baidu.com/s/1H-RBYh7qQBicNFVxGpKgdw
+ - 提取码：8s0e 
 
 
 - 4-模块配套资料
+
+ - https://pan.baidu.com/s/1Fbc1qp0_2p2oIJbExcomag 
+ - 提取码：3crh 
+
+
 - 5-开发软件
 
- - 链接：https://pan.baidu.com/s/1bU0H12yoazmBvI7bzQOS7A 
- - 提取码：rzm4 
+ - 链接：https://pan.baidu.com/s/1od1IosIqWwkJ7Mb9Cuy64A 
+ - 提取码：pt12 
 
 
+视频资料
+------------
 
 指南者/霸道 通用视频盘 链接：（内含课件）
 

@@ -26,28 +26,33 @@
 野火STM32F103指南者备用资料链接：
 
 
+- 资料必读说明
 - 0-开机例程源码
 - 1-程序源码_教程文档
-- 资料必读说明
-
- - 链接：https://pan.baidu.com/s/1ZS7WzmQhlQjST7irHf5K8w 
- - 提取码：j6fj 
-
-
 - 2-开发板原理图_封装库_尺寸图_IC手册
 - 3-STM32官方资料
 
- - 链接：https://pan.baidu.com/s/1xkN0QMEVhwOg6fXHPBfwcw 
- - 提取码：j5om 
+ - 链接：https://pan.baidu.com/s/1jNNwTl06FhxQm2ttgVCVig
+ - 提取码：qxd3
 
 
 - 4-模块配套资料
+
+ - https://pan.baidu.com/s/1WEzOwfZYjWwPwx9sT1pe_g 
+ - 提取码：r4rp 
+
+
 - 5-开发软件
 
- - 链接：https://pan.baidu.com/s/12DMvPwWSXqjmCW4qiVrChw 
- - 提取码：rtd7 
+ - 链接：https://pan.baidu.com/s/1od1IosIqWwkJ7Mb9Cuy64A 
+ - 提取码：pt12 
 
 
+
+
+
+视频资料
+------------
 
 
 指南者/霸道 通用视频盘 链接：（内含课件）

@@ -1,9 +1,8 @@
 野火电机驱动板
 ========================
 
-资料下载链接
+驱动板硬件资料
 ------------
-
 
 野火【电机_驱动板硬件资料】：
 
@@ -12,13 +11,42 @@
 
 
 
+对应电机教程
+------------
+
+[野火]电机应用开发实战指南-基于STM32
+
+- https://ebf-products.readthedocs.io/zh_CN/latest/tutorial/ebf_motor_tutorial.html
+
+
+
+电机系列开发板例程
+------------
+
+电机系列开发板例程请下载拂晓、骄阳、繁星开发板资料里面包含：
+
+- https://ebf-products.readthedocs.io/zh_CN/latest/stm32_motor/index.html
+
+
+
+
+普通系列开发板电机例程
+------------
+
 普通系列开发板电机例程：
 
 - 链接：https://pan.baidu.com/s/16dW4jxuStuSEwF-YZa-FeA 
 - 提取码：gqny 
 
 
-电机系列开发板例程请在拂晓、骄阳、繁星开发板资料界面下载。
+普通系列开发板列表：
+
+- https://ebf-products.readthedocs.io/zh_CN/latest/stm32/index.html#
+
+
+
+
+
 
 
 产品图片

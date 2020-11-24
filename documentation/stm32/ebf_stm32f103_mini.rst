@@ -26,36 +26,32 @@
 野火STM32F103MINI备用资料链接：
 
 
+- 资料必读说明
 - 0-开机例程源码
 - 1-程序源码_教程文档
-- 资料必读说明
-
- - 链接：https://pan.baidu.com/s/1o5Ma5SCt7lrQlLCFZ2Yy_Q 
- - 提取码：3voh 
-
-
 - 2-开发板原理图_封装库_尺寸图_IC手册
 - 3-STM32官方资料
 
- - 链接：https://pan.baidu.com/s/1wpp8ZM2XmMfspimCJ9AgGA
- - 提取码：5d4c  
+ - 链接：https://pan.baidu.com/s/11pVysW8jI4LzmgpfzKhJYg
+ - 提取码：i07g 
+
 
 - 4-模块配套资料
+
+ - https://pan.baidu.com/s/10YSxny7apsqOq39NSL4cFA 
+ - 提取码：tv89 
+
+
 - 5-开发软件
 
- - 链接：https://pan.baidu.com/s/1_eVeRviOt3GAJyBleLCt7A 
- - 提取码：n7ad 
+ - 链接：https://pan.baidu.com/s/1od1IosIqWwkJ7Mb9Cuy64A 
+ - 提取码：pt12 
 
 
 
 
-
-
-
-
-
-
-
+视频资料
+------------
 
 视频盘 链接：（内含课件）
 
