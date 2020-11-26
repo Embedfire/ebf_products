@@ -41,7 +41,8 @@
 
 普通系列开发板列表：
 
-- https://ebf-products.readthedocs.io/zh_CN/latest/stm32/index.html#
+- https://ebf-products.readthedocs.io/zh_CN/latest/stm32/index.html
+
 
 
 
