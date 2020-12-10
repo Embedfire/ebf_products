@@ -12,41 +12,6 @@
 -  提取码：pmf1  
 
 
-近期该云盘链接经常莫名失效，如果链接失效时请临时用下面的备用分散链接，不便之处见谅。
-
-或者可以使用大学堂工具下载资料：
-
-野火大学堂： https://www.firebbs.cn/forum.php?mod=viewthread&tid=29500&fromuid=1
-
-
-
-备用资料下载链接
-------------
-
-野火STM32F103指南者备用资料链接：
-
-
-- 资料必读说明
-- 0-开机例程源码
-- 1-程序源码_教程文档
-- 2-开发板原理图_封装库_尺寸图_IC手册
-- 3-STM32官方资料
-
- - 链接：https://pan.baidu.com/s/1jNNwTl06FhxQm2ttgVCVig
- - 提取码：qxd3
-
-
-- 4-模块配套资料
-
- - https://pan.baidu.com/s/1WEzOwfZYjWwPwx9sT1pe_g 
- - 提取码：r4rp 
-
-
-- 5-开发软件
-
- - 链接：https://pan.baidu.com/s/1od1IosIqWwkJ7Mb9Cuy64A 
- - 提取码：pt12 
-
 
 
 
